@@ -1,0 +1,27 @@
+{
+  "match": {
+    "title": "",
+    "date": "",
+    "time": "",
+    "stadium": "---",
+    "league": "Pakistan Super lEage",
+    "round": "--",
+    "broadcaster": "YoNoTV",
+    "banner_image": "",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "",
+    "lineup": ""
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "#"
+    }
+  ]
+}
