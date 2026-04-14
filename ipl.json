@@ -21,11 +21,15 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://wapgoo.pages.dev/?id=Star%20Sports%201%20HD"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-frame.pages.dev/frame?ref=ipl1"
     },
     {
       "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://yosintv100.pages.dev/shaka?id=pc1"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-frame.pages.dev/frame?ref=ipl2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-frame.pages.dev/frame?ref=ipl3"
     }
   ]
 }
