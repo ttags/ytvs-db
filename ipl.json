@@ -1,21 +1,21 @@
 {
   "match": {
-    "title": "MI vs PBKS",
-    "date": "16 APR",
+    "title": "Gujarat Titans GT vs Kolkata Knight Riders KKR",
+    "date": "17 APR",
     "time": "07:45 PM NST",
     "stadium": "M chinnaswamy stadium, Bengaluru",
     "league": "Indian Premiere Leage",
     "round": "Group Stage",
     "broadcaster": "YoNoTV",
-    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HmiWb77BmJDs6sHvn77v_Q_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/XUAb4iA3XozYbH_cXQCryQ_96x96.png",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aTE8G7q-OcAobWvDd6sizQ_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/bV4wF2dFs6IPc2BMtjgGZw_96x96.png",
     "lineup_published": false
   },
   "team1": {
-    "name": "MI",
+    "name": "Gujarat Titans GT",
     "lineup": ""
   },
   "team2": {
-    "name": "PBKS",
+    "name": "Kolkata Knight Riders KKR",
     "lineup": ""
   },
   "info_sources": [
