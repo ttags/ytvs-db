@@ -1,0 +1,74 @@
+{
+  "match": {
+    "title": "Nepal vs United Arab Emirates",
+    "date": "12 SEPT",
+    "time": "07:15 AM NST",
+    "end_time": "11:15 AM NST",
+    "stadium": "Bayuemas Cricket Oval",
+    "league": "ACC Mens Premier Cup - Cricket",
+    "round": "Final Match",
+    "broadcaster": "Yaki TV Sports",
+    "banner_image": "https://dns-tv.pages.dev/logo/can.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/v_vORXEGt13cTEb-zw7yWA_96x96.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "32",
+      "precipitation": "50"
+    },
+    "h2h": "Nepal holds a narrow edge in their Cricket Head-to- Head Records against the United Arab Emirates in One Day Internationals (\nODIs). ODI Head-to-\nHead Statistics Total Matches: 19 Nepal Wins: 11 UAE Wins: 8 No Result: 0 Recent Form Nepal won both of their recent ODI encounters in April–\nMay 2026, beating the UAE by 37 runs and 6 runs via DLS method.",
+    "win_probability": {
+      "home": 75.4,
+      "away": 24.6
+    }
+  },
+  "team1": {
+    "name": "Nepal",
+    "lineup": "Rohit Paudel\nAasif Sheikh\nDipendra Singh Airee\nSandeep Lamichhane - Captain\nKaran KCLalit Rajbanshi\nGulsan Jha\nDev Khanal\nSundeep Jora\nIshan Pandey\nBasir Ahamad\nHemant Dhami\nArjun Kumal\nSher Mall"
+  },
+  "team2": {
+    "name": "United Arab Emirates",
+    "lineup": "Harpreet Singh Bhatia\nAkshdeep Nath\nAdeeb Usmani\nHaider Ali\nAayan Afzal Khan\nAryansh Sharma\nKhuzaima Bin Tanvir\nRahul Chopra\nTanish Suri\nMuhammad Jawad Ullah\nMuhammad Shahdad\nSohaib Khan\nIbrar Shah Ahmad\nMuhammad Mohsin"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal5"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal6"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal7"
+    },
+    {
+      "name": "Link 8",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal8"
+    },
+    {
+      "name": "Link 9",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal9"
+    },
+    {
+      "name": "Link 10",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nepalfinal10"
+    }
+  ]
+}
