@@ -287,43 +287,35 @@
   },
   "nepalfinal1": {
     "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+    "url": "https://cdn-gstyx.styxsports.live/STYX/streams/oHG5d4iuhYfng0OW6174743911693.m3u8"
   },
   "nepalfinal2": {
     "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
   },
   "nepalfinal3": {
     "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "nepalfinal4": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "nepalfinal5": {
-    "type": "hls",
     "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
   },
-  "nepalfinal6": {
+  "nepalfinal4": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "keyId": "290e09c837da78d5cd961978d390515c",
     "key": "b748836c71e6a4ca68ef5b5652db6247"
   },
-  "nepalfinal7": {
+  "nepalfinal5": {
     "type": "hls",
     "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
   },
-  "nepalfinal8": {
+  "nepalfinal6": {
     "type": "hls",
     "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
   },
-  "nepalfinal9": {
+  "nepalfinal7": {
     "type": "hls",
     "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
   },
-  "nepalfinal10": {
+  "nepalfinal8": {
     "type": "hls",
     "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
   }
