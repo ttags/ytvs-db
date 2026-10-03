@@ -1,322 +1,66 @@
 {
-  "eng1": {
+  "ind-wes1": {
     "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
   },
-  "eng2": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "eng3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "eng4": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "eng5": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "eng6": {
+  "ind-wes2": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-    "keyId": "d185684e2330de5bea436daa094a5e86",
-    "key": "014f0116154f5bf0050e03a6b0a23157"
+    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "eng7": {
+  "ind-wes3": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "eng8": {
+  "ind-wes-21": {
     "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
   },
-  "eng9": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "eng10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "eng11": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "bangla1": {
+  "ind-wes-22": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "bangla2": {
-    "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
-  },
-  "bangla3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "bangla4": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "bangla5": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "bangla6": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "bangla7": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "bangla8": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "bangla9": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "bangla10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "ind1": {
+  "ind-wes-23": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "ind2": {
+  "ind-wes-31": {
     "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
   },
-  "ind3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "ind4": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "ind5": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "ind6": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "ind7": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "ind8": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "ind9": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "ind10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "ufc1": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "ufc2": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "ufc3": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "ufc4": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "ufc5": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "ufc6": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "ufc7": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "sa1": {
+  "ind-wes-32": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "sa2": {
-    "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
-  },
-  "sa3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "sa4": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "sa5": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "sa6": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "sa7": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "sa8": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "sa9": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "sa10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "zim1": {
+  "ind-wes-33": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "zim2": {
+  "ind-wes-41": {
     "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
   },
-  "zim3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "zim4": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "zim5": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "zim6": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "zim7": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "zim8": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "zim9": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "zim10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "nam1": {
+  "ind-wes-42": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
+    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
-  "nam2": {
-    "type": "hls",
-    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
-  },
-  "nam3": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
-  },
-  "nam4": {
-    "type": "hls",
-    "url": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
-  },
-  "nam5": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "nam6": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "nam7": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "nam8": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "nam9": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "nam10": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
-  },
-  "nepalfinal1": {
-    "type": "hls",
-    "url": "https://cdn-gstyx.styxsports.live/STYX/streams/oHG5d4iuhYfng0OW6174743911693.m3u8"
-  },
-  "nepalfinal2": {
-    "type": "hls",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8"
-  },
-  "nepalfinal3": {
-    "type": "hls",
-    "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8"
-  },
-  "nepalfinal4": {
+  "ind-wes-43": {
     "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "keyId": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247"
-  },
-  "nepalfinal5": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8"
-  },
-  "nepalfinal6": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-  },
-  "nepalfinal7": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-  },
-  "nepalfinal8": {
-    "type": "hls",
-    "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
+    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
+    "keyId": "465e30cbfd3748843f54933153276ed8",
+    "key": "0f9351d5b352b8f7939bd6695e38afe3"
   }
 }
