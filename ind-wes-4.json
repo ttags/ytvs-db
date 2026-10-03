@@ -1,0 +1,46 @@
+{
+  "match": {
+    "title": "India vs West Indies",
+    "date": "11 OCT",
+    "time": "07:15 PM NST",
+    "end_time": "11:15 PM NST",
+    "stadium": "Holkar Stadium, Indore",
+    "league": "T20 Series",
+    "round": "Group Stage",
+    "broadcaster": "Yaki TV Sports",
+    "banner_image": "https://flagcdn.com/w320/in.png|https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/960px-Cricket_West_Indies_Logo_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "29",
+      "precipitation": "15"
+    },
+    "h2h": "India and the West Indies share one of cricket's most storied rivalries, evolving from total West Indian dominance in the 20th century to modern-day mastery by India. The comprehensive head-to-head records across all three major formats of international cricket show how the teams match up: Overall Head-to-Head Record Format Total Matches India Won West Indies Won Tied No Result / Draw Test Matches 102 25 30 0 47 One Day Internationals (ODIs) 144 64 74 2 4 T20 Internationals (T20Is) 31 20 10 0 1",
+    "win_probability": {
+      "home": 61.3,
+      "away": 38.7
+    }
+  },
+  "team1": {
+    "name": "India",
+    "lineup": "Sanju Samson\n(Wk)\nRight-Handed Batsman\nAxar Patel\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nKuldeep Yadav\nLeft-arm Leg Spin Bowler\nShreyas Iyer\n(C)\nRight-Handed Batsman\nIshan Kishan\n(Wk)\nLeft-Handed Batsman\nShivam Dube\nLeft-Handed Batsman • Right-arm Medium Bowler\nAbhishek Sharma\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nArshdeep Singh\nLeft-arm Medium Fast Bowler\nTilak Varma\nLeft-Handed Batsman\nRavi Bishnoi\nRight-arm Leg Spin Bowler\nNitish Kumar Reddy\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nMayank Yadav\nRight-arm Fast Bowler\nNaman Dhir\nRight-Handed Batsman • Right-arm Off Spin Bowler\nPrince Yadav\nRight-arm Fast Bowler\nVaibhav Sooryavanshi\nLeft-Handed Batsman"
+  },
+  "team2": {
+    "name": "West Indies",
+    "lineup": "Akeal Hosein\nLeft-arm Off Spin Bowler\nRoston Chase\nRight-Handed Batsman • Right-arm Off Spin Bowler\nShai Hope\n(C) (Wk)\nRight-Handed Batsman\nGudakesh Motie\nLeft-arm Off Spin Bowler\nShimron Hetmyer\nLeft-Handed Batsman\nKeemo Paul\nRight-Handed Batsman • Right-arm Fast Medium Bowler\nShamar Springer\nRight-Handed Batsman • Right-arm Fast Medium Bowler\nRovman Powell\nRight-Handed Batsman\nRomario Shepherd\nRight-Handed Batsman • Right-arm Fast Medium Bowler\nSherfane Rutherford\nLeft-Handed Batsman\nMatthew Forde\nRight-arm Medium Bowler\nKamil Pooran\nRight-Handed Batsman\nQuentin Sampson\nRight-Handed Batsman\nJewel Andrew\n(Wk)\nRight-Handed Batsman\nShamar Joseph\nRight-arm Fast Bowler"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-41"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-42"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-43"
+    }
+  ]
+}
