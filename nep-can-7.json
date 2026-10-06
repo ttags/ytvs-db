@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Canada vs Oman",
+    "date": "08 OCT",
+    "time": "10:45 AM NST",
+    "end_time": "07:15 PM NST",
+    "stadium": "Al Amerat Cricket Ground, OMAN",
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "round": "League Stage",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/ca.png|https://flagcdn.com/w320/om.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "30",
+      "precipitation": "17"
+    },
+    "h2h": "<p>May 23, 2025 (ODI - CWC League 2): Oman won by 18 runs (DLS method) in Lauderhill, USA.\nMay 19, 2025 (ODI - CWC League 2): Oman won by 15 runs in Lauderhill, USA.\nOctober 3, 2024 (T20I): Canada won by 5 wickets in King City, Canada.\nSeptember 30, 2024 (T20I): Oman won by 8 wickets in King City, Canada.\nSeptember 20, 2024 (ODI - CWC League 2): Canada won by 59 runs. </p>",
+    "win_probability": {
+      "home": 45.3,
+      "away": 54.7
+    }
+  },
+  "team1": {
+    "name": "Canada",
+    "lineup": "Kaleem Sana\nLeft-arm Medium Fast Bowler\nSaad Bin Zafar\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nAli Shamsher Khan\nRight-Handed Batsman\nHarsh Thaker\nRight-Handed Batsman • Right-arm Off Spin Bowler\nMatthew Spoors\nRight-Handed Batsman\nNicholas Kirton\nLeft-Handed Batsman\nShreyas Movva\n(Wk)\nRight-Handed Batsman\nAkhil Kumar\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nPargat Singh\nRight-Handed Batsman\nAnsh Patel\nLeft-arm Leg Spin Bowler\nZahid Shirzad\nRight-arm Medium Fast Bowler\nAnoop Chima\n(Wk)\nRight-Handed Batsman\nAaron Johnson\nRight-Handed Batsman\nYuvraj Samra\nLeft-Handed Batsman\nAli Nadeem\nRight-Handed Batsman\nShivam Sharma\nRight-Handed Batsman • Right-arm Off Spin Bowler\nSukhjinder Singh\nLeft-arm Off Spin Bowler\nMeet Patel\nLeft-Handed Batsman"
+  },
+  "team2": {
+    "name": "Oman",
+    "lineup": "Mohammad Nadeem\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nJatinder Singh\n(C)\nRight-Handed Batsman\nImran Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nJay Odedra\nRight-arm Off Spin Bowler\nHashir Anwar Dafedar\nRight-Handed Batsman\nWasim Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nFaisal Shah\nLeft-arm Medium Fast Bowler\nPruthvikumar Machhi\nLeft-Handed Batsman\nJitenkumar Ramanandi\nLeft-Handed Batsman • Left-arm Medium Bowler\nSamay Shrivastava\nRight-arm Leg Spin Bowler\nHassnain Shah\nRight-arm Medium Fast Bowler\nAshish Odedara\nRight-Handed Batsman\nKaran Sonavale\nRight-Handed Batsman\nVinayak Shukla\n(Wk)\nRight-Handed Batsman\nShakeel Ahmad\nLeft-arm Off Spin Bowler\nHammad Mirza\n(Wk)\nRight-Handed Batsman\nImran Muhammed\nRight-arm Fast Medium Bowler\nAryan Bisht\nRight-Handed Batsman"
+  },
+  "info_sources": []
+}
