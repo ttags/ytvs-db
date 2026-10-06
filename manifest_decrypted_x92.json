@@ -1,20 +1,4 @@
 {
-  "ind-wes1": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
-  },
-  "ind-wes2": {
-    "type": "dash",
-    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-    "keyId": "465e30cbfd3748843f54933153276ed8",
-    "key": "0f9351d5b352b8f7939bd6695e38afe3"
-  },
-  "ind-wes3": {
-    "type": "dash",
-    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-    "keyId": "465e30cbfd3748843f54933153276ed8",
-    "key": "0f9351d5b352b8f7939bd6695e38afe3"
-  },
   "ind-wes-21": {
     "type": "hls",
     "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
@@ -26,22 +10,6 @@
     "key": "0f9351d5b352b8f7939bd6695e38afe3"
   },
   "ind-wes-23": {
-    "type": "dash",
-    "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-    "keyId": "465e30cbfd3748843f54933153276ed8",
-    "key": "0f9351d5b352b8f7939bd6695e38afe3"
-  },
-  "ind-wes-31": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/289a-bab0/chunklist_i1_DVR.m3u8"
-  },
-  "ind-wes-32": {
-    "type": "dash",
-    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-    "keyId": "465e30cbfd3748843f54933153276ed8",
-    "key": "0f9351d5b352b8f7939bd6695e38afe3"
-  },
-  "ind-wes-33": {
     "type": "dash",
     "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
     "keyId": "465e30cbfd3748843f54933153276ed8",
@@ -62,5 +30,11 @@
     "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
     "keyId": "465e30cbfd3748843f54933153276ed8",
     "key": "0f9351d5b352b8f7939bd6695e38afe3"
+  },
+  "bar-rea1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+    "keyId": "d185684e2330de5bea436daa094a5e86",
+    "key": "014f0116154f5bf0050e03a6b0a23157"
   }
 }
