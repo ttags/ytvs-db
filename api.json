@@ -1,15 +1,5 @@
 [
   {
-    "league": "ODI Series",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=ind-wes",
-    "home_team": "India",
-    "home_flag": "https://flagcdn.com/w320/in.png",
-    "away_team": "West Indies",
-    "away_flag": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/960px-Cricket_West_Indies_Logo_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "start_time": "2026-10-03T22:12:00+05:45",
-    "end_time": "2026-10-04T06:42:00+05:45"
-  },
-  {
     "league": "T20 Series",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=ind-wes-2",
     "home_team": "India",
@@ -18,6 +8,36 @@
     "away_flag": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/960px-Cricket_West_Indies_Logo_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "start_time": "2026-10-06T19:15:00+05:45",
     "end_time": "2026-10-06T23:15:00+05:45"
+  },
+  {
+    "league": "UEFA - Football",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=arg-ben",
+    "home_team": "Argentina",
+    "home_flag": "https://flagcdn.com/w320/ar.png",
+    "away_team": "Benin",
+    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EO_PoDkZTsWom_ZTj54SVg_96x96.png",
+    "start_time": "2026-10-07T16:45:00+05:45",
+    "end_time": "2026-10-07T20:15:00+05:45"
+  },
+  {
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nep-can-7",
+    "home_team": "Canada",
+    "home_flag": "https://flagcdn.com/w320/ca.png",
+    "away_team": "Oman",
+    "away_flag": "https://flagcdn.com/w320/om.png",
+    "start_time": "2026-10-08T10:45:00+05:45",
+    "end_time": "2026-10-08T19:15:00+05:45"
+  },
+  {
+    "league": "One Off Test",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=afg-ban",
+    "home_team": "Afghanistan",
+    "home_flag": "https://flagcdn.com/w320/af.png",
+    "away_team": "Bangladesh",
+    "away_flag": "https://flagcdn.com/w320/bd.png",
+    "start_time": "2026-10-09T11:15:00+05:45",
+    "end_time": "2026-10-09T19:15:00+05:45"
   },
   {
     "league": "T20 Series",
@@ -31,6 +51,36 @@
   },
   {
     "league": "T20 Series",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak-sri",
+    "home_team": "Pakistan",
+    "home_flag": "https://flagcdn.com/w320/pk.png",
+    "away_team": "Sri Lanka",
+    "away_flag": "https://flagcdn.com/w320/lk.png",
+    "start_time": "2026-10-09T20:45:00+05:45",
+    "end_time": "2026-10-10T00:45:00+05:45"
+  },
+  {
+    "league": "UEFA Champions League",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=ars-lee",
+    "home_team": "Arsenal",
+    "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
+    "away_team": "Leeds United",
+    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5dqfOKpjjW6EwTAx_FysKQ_96x96.png",
+    "start_time": "2026-10-10T17:15:00+05:45",
+    "end_time": "2026-10-10T21:15:00+05:45"
+  },
+  {
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nep-can",
+    "home_team": "Nepal",
+    "home_flag": "https://flagcdn.com/w320/np.png",
+    "away_team": "Canada",
+    "away_flag": "https://flagcdn.com/w320/ca.png",
+    "start_time": "2026-10-11T10:45:00+05:45",
+    "end_time": "2026-10-11T19:15:00+05:45"
+  },
+  {
+    "league": "T20 Series",
     "match_link": "https://www.yonotvs.com/p/match-details.html?id=ind-wes-4",
     "home_team": "India",
     "home_flag": "https://flagcdn.com/w320/in.png",
@@ -38,5 +88,75 @@
     "away_flag": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cricket_West_Indies_Logo_2017.svg/960px-Cricket_West_Indies_Logo_2017.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "start_time": "2026-10-11T19:15:00+05:45",
     "end_time": "2026-10-11T23:15:00+05:45"
+  },
+  {
+    "league": "T20 Series",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak-sri-2",
+    "home_team": "Pakistan",
+    "home_flag": "https://flagcdn.com/w320/pk.png",
+    "away_team": "Sri Lanka",
+    "away_flag": "https://flagcdn.com/w320/lk.png",
+    "start_time": "2026-10-11T20:45:00+05:45",
+    "end_time": "2026-10-12T00:45:00+05:45"
+  },
+  {
+    "league": "UEFA Championship League - Football",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=liv-man",
+    "home_team": "Liverpool",
+    "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nGfV05dipbAc7zzojivKew_96x96.png",
+    "away_team": "Manchester City",
+    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "start_time": "2026-10-11T21:15:00+05:45",
+    "end_time": "2026-10-12T00:45:00+05:45"
+  },
+  {
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nep-can-3",
+    "home_team": "Nepal",
+    "home_flag": "https://flagcdn.com/w320/np.png",
+    "away_team": "Oman",
+    "away_flag": "https://flagcdn.com/w320/om.png",
+    "start_time": "2026-10-13T10:45:00+05:45",
+    "end_time": "2026-10-13T19:15:00+05:45"
+  },
+  {
+    "league": "T20 Series",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=pak-sri-3",
+    "home_team": "Pakistan",
+    "home_flag": "https://flagcdn.com/w320/pk.png",
+    "away_team": "Sri Lanka",
+    "away_flag": "https://flagcdn.com/w320/lk.png",
+    "start_time": "2026-10-13T20:45:00+05:45",
+    "end_time": "2026-10-14T00:45:00+05:45"
+  },
+  {
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nep-can-4",
+    "home_team": "Nepal",
+    "home_flag": "https://flagcdn.com/w320/np.png",
+    "away_team": "Canada",
+    "away_flag": "https://flagcdn.com/w320/ca.png",
+    "start_time": "2026-10-17T10:45:00+05:45",
+    "end_time": "2026-10-17T19:15:00+05:45"
+  },
+  {
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=nep-can-6",
+    "home_team": "Nepal",
+    "home_flag": "https://flagcdn.com/w320/np.png",
+    "away_team": "Oman",
+    "away_flag": "https://flagcdn.com/w320/om.png",
+    "start_time": "2026-10-19T10:45:00+05:45",
+    "end_time": "2026-10-19T19:15:00+05:45"
+  },
+  {
+    "league": "Football Match - El Classico",
+    "match_link": "https://www.yonotvs.com/p/match-details.html?id=bar-rea",
+    "home_team": "Barcelona",
+    "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/paYnEE8hcrP96neHRNofhQ_96x96.png",
+    "away_team": "Real Madrid",
+    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+    "start_time": "2026-10-26T01:45:00+05:45",
+    "end_time": "2026-10-26T05:15:00+05:45"
   }
 ]
