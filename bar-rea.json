@@ -1,0 +1,38 @@
+{
+  "match": {
+    "title": "Barcelona vs Real Madrid",
+    "date": "26 OCT",
+    "time": "01:45 AM NST",
+    "end_time": "05:15 AM NST",
+    "stadium": "Camp Nou, Barcelona",
+    "league": "Football Match - El Classico",
+    "round": "Group Stage",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/paYnEE8hcrP96neHRNofhQ_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "29",
+      "precipitation": "20"
+    },
+    "h2h": "<table><thead><tr><th>Metric</th><th>FC Barcelona</th><th>Real Madrid</th><th>Draws</th></tr></thead><tbody><tr><td>Official Matches Wins</td><td>106</td><td>106</td><td>52</td></tr><tr><td>Goals Scored</td><td>441</td><td>444</td><td>—</td></tr><tr><td>Home Wins</td><td>65</td><td>67</td><td>—</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 65.5,
+      "away": 34.5
+    }
+  },
+  "team1": {
+    "name": "Barcelona",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Real Madrid",
+    "lineup": ""
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=bar-rea1"
+    }
+  ]
+}
