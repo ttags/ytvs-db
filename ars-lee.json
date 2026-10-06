@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Arsenal vs Leeds United",
+    "date": "10 OCT",
+    "time": "05:15 PM NST",
+    "end_time": "09:15 PM NST",
+    "stadium": "Emirates Stadium, London",
+    "league": "UEFA Champions League",
+    "round": "League Stage",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/4us2nCgl6kgZc0t3hpW75Q_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5dqfOKpjjW6EwTAx_FysKQ_96x96.png",
+    "lineup_published": false,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "15",
+      "precipitation": "20"
+    },
+    "h2h": "<table><thead><tr><th>Date</th><th>Home Team</th><th>Score</th><th>Away Team</th><th>Competition</th></tr></thead><tbody><tr><td>January 31, 2026</td><td>Leeds United</td><td>0–4</td><td>Arsenal</td><td>Premier League</td></tr><tr><td>August 23, 2025</td><td>Arsenal</td><td>5–0</td><td>Leeds United</td><td>Premier League</td></tr><tr><td>April 1, 2023</td><td>Arsenal</td><td>4–1</td><td>Leeds United</td><td>Premier League</td></tr><tr><td>October 16, 2022</td><td>Leeds United</td><td>0–1</td><td>Arsenal</td><td>Premier League</td></tr><tr><td>May 8, 2022</td><td>Arsenal</td><td>2–1</td><td>Leeds United</td><td>Premier League</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 70,
+      "away": 30
+    }
+  },
+  "team1": {
+    "name": "Arsenal",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Leeds United",
+    "lineup": ""
+  },
+  "info_sources": []
+}
