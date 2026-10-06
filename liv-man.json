@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Liverpool vs Manchester City",
+    "date": "11 OCT",
+    "time": "09:15 PM NST",
+    "end_time": "12:45 AM NST",
+    "stadium": "Anfield, Liverpool",
+    "league": "UEFA Championship League - Football",
+    "round": "Group Stage",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nGfV05dipbAc7zzojivKew_96x96.png|https://ssl.gstatic.com/onebox/media/sports/logos/optimized/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "15",
+      "precipitation": "10"
+    },
+    "h2h": "<table><thead><tr><th>Competition</th><th>Played</th><th>Liverpool F.C. logo</th></tr></thead><tbody><tr><td>Liverpool Wins</td><td>Manchester City Wins</td><td>Draws</td></tr><tr><td>Premier League</td><td>58</td><td>23</td><td>14</td><td>21</td></tr><tr><td>First Division</td><td>118</td><td>59</td><td>34</td><td>25</td></tr><tr><td>EFL Cup</td><td>8</td><td>--</td><td>2</td><td>--</td></tr><tr><td>UEFA Champions League</td><td>2</td><td>2</td><td>0</td><td>0</td></tr><tr><td>FA Community Shield</td><td>2</td><td>0</td><td>0</td><td>--</td></tr><tr><td>Total</td><td>201</td><td>95</td><td>53</td><td>53</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Liverpool",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Manchester City",
+    "lineup": ""
+  },
+  "info_sources": []
+}
