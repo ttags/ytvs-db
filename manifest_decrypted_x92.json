@@ -1,9 +1,7 @@
 {
   "ind-wes-21": {
-    "type": "dash",
-    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd",
-    "keyId": "465e30cbfd3748843f54933153276ed8",
-    "key": "0f9351d5b352b8f7939bd6695e38afe3"
+    "type": "hls",
+    "url": "https://justkidding.junksonus.party/main/secure/f1f1383d03512c6c10d3fc32693d626bea3244f993f5950bdbdbe21753beb85d/1791302614/fox-sports-501.m3u8"
   },
   "ind-wes-41": {
     "type": "hls",
