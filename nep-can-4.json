@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Nepal vs Canada",
+    "date": "17 OCT",
+    "time": "10:45 AM NST",
+    "end_time": "07:15 PM NST",
+    "stadium": "Al Amerat Cricket Ground, OMAN",
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "round": "4th match",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/np.png|https://flagcdn.com/w320/ca.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "28",
+      "precipitation": "20"
+    },
+    "h2h": "<table><thead><tr><th>Date</th><th>Tournament / Event</th><th>Venue</th><th>Winner &amp; Margin</th></tr></thead><tbody><tr><td>Feb 5, 2026</td><td>T20 World Cup Warm-up</td><td>Chennai, India</td><td>Nepal won by 6 wickets</td></tr><tr><td>Feb 12, 2024</td><td>ICC Men's CWCL2 / Tri-Series</td><td>Kirtipur, Nepal</td><td>Nepal won by 9 wickets</td></tr><tr><td>Feb 10, 2024</td><td>ICC Men's CWCL2 / Tri-Series</td><td>Kirtipur, Nepal</td><td>Nepal won by 4 wickets</td></tr><tr><td>Feb 8, 2024</td><td>Bilateral ODI Series</td><td>Kirtipur, Nepal</td><td>Nepal won by 7 runs</td></tr><tr><td>Feb 21, 2022</td><td>T20 World Cup Global Qualifier</td><td>Al Amerat, Oman</td><td>Nepal won by 8 wickets</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Nepal",
+    "lineup": "Lalit Rajbanshi\nLeft-arm Off Spin Bowler\nBinod Bhandari\n(Wk)\nRight-Handed Batsman\nKaran KC\nRight-Handed Batsman • Right-arm Fast Bowler\nDipendra Singh Airee\nRight-Handed Batsman • Right-arm Off Spin Bowler\nSandeep Lamichhane\n(C)\nRight-arm Leg Spin Bowler\nIshan Pandey\nLeft-Handed Batsman\nAasif Sheikh\n(Wk)\nRight-Handed Batsman\nRohit Paudel\nRight-Handed Batsman\nSundeep Jora\nRight-Handed Batsman\nBhim Sharki\nRight-Handed Batsman\nNandan Yadav\nRight-arm Medium Bowler\nShahab Alam\nLeft-arm Off Spin Bowler\nSher Malla\nRight-arm Off Spin Bowler\nHemant Dhami\nRight-arm Medium Fast Bowler\nDev Khanal\nRight-Handed Batsman\nArjun Kumal\nRight-Handed Batsman\nGulsan Jha\nLeft-Handed Batsman • Right-arm Medium Bowler\nRijan Dhakal\nLeft-arm Medium Fast Bowler\nBasir Ahamad\nLeft-arm Off Spin Bowler"
+  },
+  "team2": {
+    "name": "Canada",
+    "lineup": "Kaleem Sana\nLeft-arm Medium Fast Bowler\nSaad Bin Zafar\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nAli Shamsher Khan\nRight-Handed Batsman\nHarsh Thaker\nRight-Handed Batsman • Right-arm Off Spin Bowler\nMatthew Spoors\nRight-Handed Batsman\nNicholas Kirton\nLeft-Handed Batsman\nShreyas Movva\n(Wk)\nRight-Handed Batsman\nAkhil Kumar\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nPargat Singh\nRight-Handed Batsman\nAnsh Patel\nLeft-arm Leg Spin Bowler\nZahid Shirzad\nRight-arm Medium Fast Bowler\nAnoop Chima\n(Wk)\nRight-Handed Batsman\nAaron Johnson\nRight-Handed Batsman\nYuvraj Samra\nLeft-Handed Batsman\nAli Nadeem\nRight-Handed Batsman\nShivam Sharma\nRight-Handed Batsman • Right-arm Off Spin Bowler\nSukhjinder Singh\nLeft-arm Off Spin Bowler\nMeet Patel\nLeft-Handed Batsman"
+  },
+  "info_sources": []
+}
