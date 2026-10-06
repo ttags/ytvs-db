@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Pakistan vs Sri Lanka",
+    "date": "13 OCT",
+    "time": "08:45 PM NST",
+    "end_time": "12:45 AM NST",
+    "stadium": "Rawalpindi Cricket Stadium, Rawalpindi",
+    "league": "T20 Series",
+    "round": "Group Stage",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/pk.png|https://flagcdn.com/w320/lk.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "26",
+      "precipitation": "15"
+    },
+    "h2h": "<table><thead><tr><th>Format</th><th>Played</th><th>Pakistan Won</th><th>Sri Lanka Won</th><th>Drawn / Tied / NR</th></tr></thead><tbody><tr><td>Test</td><td>57</td><td>23</td><td>17</td><td>17</td></tr><tr><td>ODI</td><td>155</td><td>96</td><td>59</td><td>0 (5 No Result)</td></tr><tr><td>T20I</td><td>31</td><td>18</td><td>13</td><td>0 (1 Abandoned)</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 66.4,
+      "away": 33.6
+    }
+  },
+  "team1": {
+    "name": "Pakistan",
+    "lineup": "Fakhar Zaman\nLeft-Handed Batsman\nMohammad Imran\nRight-Handed Batsman • Right-arm Medium Bowler\nSahibzada Farhan\n(C)\nRight-Handed Batsman\nShadab Khan\nRight-Handed Batsman • Right-arm Leg Spin Bowler\nAbdul Samad\nRight-Handed Batsman\nAbrar Ahmed\nRight-arm Leg Spin Bowler\nNaseem Shah\nRight-arm Fast Bowler\nSaim Ayub\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nMaaz Sadaqat\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nSalman Mirza\nLeft-arm Fast Bowler\nHasan Nawaz\nRight-Handed Batsman\nSufiyan Muqeem\nLeft-arm Leg Spin Bowler\nArafat Minhas\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nKhawaja Nafay\n(Wk)\nRight-Handed Batsman\nRazaullah\nRight-arm Medium Bowler"
+  },
+  "team2": {
+    "name": "Sri Lanka",
+    "lineup": "Dushmantha Chameera\nRight-arm Fast Bowler\nDasun Shanaka\nRight-Handed Batsman • Right-arm Medium Bowler\nKusal Mendis\n(C) (Wk)\nRight-Handed Batsman\nBinura Fernando\nLeft-arm Medium Fast Bowler\nLahiru Udara\n(Wk)\nRight-Handed Batsman\nSahan Arachchige\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nKamindu Mendis\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nNuwan Thushara\nRight-arm Medium Fast Bowler\nMaheesh Theekshana\nRight-arm Off Spin Bowler\nKamil Mishara\nLeft-Handed Batsman\nDunith Wellalage\nLeft-arm Off Spin Bowler\nVijayakanth Viyaskanth\nRight-arm Leg Spin Bowler\nChamindu Wickramasinghe\nLeft-Handed Batsman • Right-arm Medium Fast Bowler\nEshan Malinga\nRight-arm Fast Medium Bowler\nSineth Jayawardene\nLeft-Handed Batsman • Right-arm Off Spin Bowler"
+  },
+  "info_sources": []
+}
