@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Nepal vs Oman",
+    "date": "19 OCT",
+    "time": "10:45 AM NST",
+    "end_time": "07:15 PM NST",
+    "stadium": "Al Amerat Cricket Ground, OMAN",
+    "league": "ODI - ICC Men's Cricket World Cup League 2",
+    "round": "5th match",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/np.png|https://flagcdn.com/w320/om.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "29",
+      "precipitation": "11"
+    },
+    "h2h": "<table><thead><tr><th>Format</th><th>Matches Played</th><th>Nepal Wins</th><th>Oman Wins</th><th>Tied / NR</th></tr></thead><tbody><tr><td>One Day Internationals (ODI)</td><td>11</td><td>5</td><td>6</td><td>0</td></tr><tr><td>Twenty20 Internationals (T20I)</td><td>10</td><td>7*</td><td>2</td><td>1</td></tr><tr><td>List A / Warm-ups</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Total Cricket</td><td>23</td><td>13</td><td>9</td><td>1</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 67.7,
+      "away": 32.3
+    }
+  },
+  "team1": {
+    "name": "Nepal",
+    "lineup": "Lalit Rajbanshi\nLeft-arm Off Spin Bowler\nBinod Bhandari\n(Wk)\nRight-Handed Batsman\nKaran KC\nRight-Handed Batsman • Right-arm Fast Bowler\nDipendra Singh Airee\nRight-Handed Batsman • Right-arm Off Spin Bowler\nSandeep Lamichhane\n(C)\nRight-arm Leg Spin Bowler\nIshan Pandey\nLeft-Handed Batsman\nAasif Sheikh\n(Wk)\nRight-Handed Batsman\nRohit Paudel\nRight-Handed Batsman\nSundeep Jora\nRight-Handed Batsman\nBhim Sharki\nRight-Handed Batsman\nNandan Yadav\nRight-arm Medium Bowler\nShahab Alam\nLeft-arm Off Spin Bowler\nSher Malla\nRight-arm Off Spin Bowler\nHemant Dhami\nRight-arm Medium Fast Bowler\nDev Khanal\nRight-Handed Batsman\nArjun Kumal\nRight-Handed Batsman\nGulsan Jha\nLeft-Handed Batsman • Right-arm Medium Bowler\nRijan Dhakal\nLeft-arm Medium Fast Bowler\nBasir Ahamad\nLeft-arm Off Spin Bowler"
+  },
+  "team2": {
+    "name": "Oman",
+    "lineup": "Mohammad Nadeem\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nJatinder Singh\n(C)\nRight-Handed Batsman\nImran Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nJay Odedra\nRight-arm Off Spin Bowler\nHashir Anwar Dafedar\nRight-Handed Batsman\nWasim Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nFaisal Shah\nLeft-arm Medium Fast Bowler\nPruthvikumar Machhi\nLeft-Handed Batsman\nJitenkumar Ramanandi\nLeft-Handed Batsman • Left-arm Medium Bowler\nSamay Shrivastava\nRight-arm Leg Spin Bowler\nHassnain Shah\nRight-arm Medium Fast Bowler\nAshish Odedara\nRight-Handed Batsman\nKaran Sonavale\nRight-Handed Batsman\nVinayak Shukla\n(Wk)\nRight-Handed Batsman\nShakeel Ahmad\nLeft-arm Off Spin Bowler\nHammad Mirza\n(Wk)\nRight-Handed Batsman\nImran Muhammed\nRight-arm Fast Medium Bowler\nAryan Bisht\nRight-Handed Batsman"
+  },
+  "info_sources": []
+}
