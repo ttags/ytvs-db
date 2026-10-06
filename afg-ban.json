@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Afghanistan vs Bangladesh",
+    "date": "09 OCT",
+    "time": "11:15 AM NST",
+    "end_time": "07:15 PM NST",
+    "stadium": "Sheikh Zayed Stadium, Abu Dhabi",
+    "league": "One Off Test",
+    "round": "Day 1",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/af.png|https://flagcdn.com/w320/bd.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "26",
+      "precipitation": "18"
+    },
+    "h2h": "<table><thead><tr><th>Format</th><th>Matches Played</th><th>Afghanistan Won</th><th>Bangladesh Won</th><th>Tied / No Result</th></tr></thead><tbody><tr><td>Test</td><td>2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>ODI</td><td>22</td><td>12</td><td>10</td><td>0</td></tr><tr><td>T20I</td><td>17</td><td>7</td><td>10</td><td>0</td></tr><tr><td>Total</td><td>31</td><td>14</td><td>17</td><td>0</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 59.1,
+      "away": 40.9
+    }
+  },
+  "team1": {
+    "name": "Afghanistan",
+    "lineup": "Afsar Zazai\n(Wk)\nRight-Handed Batsman\nHashmatullah Shahidi\nLeft-Handed Batsman\nYamin Ahmadzai\nRight-arm Medium Fast Bowler\nRahmat Shah\n(C)\nRight-Handed Batsman • Right-arm Leg Spin Bowler\nShahidullah\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nZia-ur-Rehman\nLeft-arm Off Spin Bowler\nIkram Alikhil\n(Wk)\nLeft-Handed Batsman\nQais Ahmad\nRight-arm Leg Spin Bowler\nAbdul Malik\nRight-Handed Batsman\nZiaur Rahman\nRight-arm Medium Fast Bowler\nRahmanullah\nRight-Handed Batsman\nSediqullah Atal\nLeft-Handed Batsman\nKhalil Gurbaz\nRight-arm Leg Spin Bowler\nIsmat Alam\nRight-Handed Batsman • Right-arm Fast Medium Bowler\nMohammad Saleem\nRight-arm Fast Bowler"
+  },
+  "team2": {
+    "name": "Bangladesh",
+    "lineup": "Mushfiqur Rahim\n(Wk)\nRight-Handed Batsman\nTaijul Islam\nLeft-arm Off Spin Bowler\nMominul Haque\nLeft-Handed Batsman\nSoumya Sarkar\nLeft-Handed Batsman • Right-arm Medium Fast Bowler\nLitton Das\n(Wk)\nRight-Handed Batsman\nNajmul Hossain Shanto\n(C)\nLeft-Handed Batsman\nMehidy Hasan Miraz\nRight-Handed Batsman • Right-arm Off Spin Bowler\nShadman Islam\nLeft-Handed Batsman\nJaker Ali\n(Wk)\nRight-Handed Batsman\nShoriful Islam\nLeft-arm Fast Medium Bowler\nEbadot Hossain\nRight-arm Fast Medium Bowler\nKhaled Ahmed\nRight-arm Medium Fast Bowler\nHasan Mahmud\nRight-arm Fast Medium Bowler\nTawhid Hridoy\nRight-Handed Batsman\nTanzid Hasan\nLeft-Handed Batsman"
+  },
+  "info_sources": []
+}
