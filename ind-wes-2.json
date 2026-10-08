@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "India vs West Indies",
-    "date": "06 OCT",
+    "date": "09 OCT",
     "time": "07:15 PM NST",
     "end_time": "11:15 PM NST",
     "stadium": "Ekana Cricket Stadium B Ground, Ardonamau",
@@ -17,8 +17,8 @@
     },
     "h2h": "<table><thead><tr><th>Format</th><th>Total Matches</th><th>India Wins</th><th>West Indies Wins</th><th>Draws / Ties</th><th>No Result (NR)</th></tr></thead><tbody><tr><td>Test Matches</td><td>102</td><td>25</td><td>30</td><td>47</td><td>0</td></tr><tr><td>One Day Internationals (ODIs)</td><td>143</td><td>73</td><td>64</td><td>2</td><td>4</td></tr><tr><td>Twenty20 Internationals (T20Is)</td><td>31</td><td>20</td><td>10</td><td>0</td><td>1</td></tr><tr><td>Total Overall</td><td>276</td><td>118</td><td>104</td><td>49</td><td>5</td></tr></tbody></table>",
     "win_probability": {
-      "home": 58.5,
-      "away": 41.5
+      "home": 67.4,
+      "away": 32.6
     }
   },
   "team1": {
@@ -31,7 +31,7 @@
   },
   "info_sources": [
     {
-      "name": "Link 1",
+      "name": "Willow HD",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-21"
     },
     {
@@ -39,7 +39,7 @@
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-22"
     },
     {
-      "name": "Link 3",
+      "name": "Best Link - Willow",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-23"
     }
   ]
