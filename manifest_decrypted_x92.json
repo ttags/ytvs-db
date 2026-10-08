@@ -1,17 +1,33 @@
 {
+  "nep-can-71": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+  },
+  "nep-can-72": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
+  "afg-ban1": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+  },
+  "afg-ban2": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
   "ind-wes-21": {
     "type": "hls",
-    "url": "https://justkidding.junksonus.party/main/secure/f1f1383d03512c6c10d3fc32693d626bea3244f993f5950bdbdbe21753beb85d/1791302614/fox-sports-501.m3u8"
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
   },
   "ind-wes-22": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/mvy5-a9bp/chunklist_i1_DVR.m3u8"
-  },
-  "ind-wes-23": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
     "keyId": "69a5aa835a061ce64a630d1046727e40",
     "key": "d02feac8a999bd06bf4059bf33411749"
+  },
+  "ind-wes-23": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
   },
   "ind-wes-41": {
     "type": "hls",
@@ -34,5 +50,9 @@
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
     "keyId": "d185684e2330de5bea436daa094a5e86",
     "key": "014f0116154f5bf0050e03a6b0a23157"
+  },
+  "bar-rea2": {
+    "type": "hls",
+    "url": "https://lb27.strmd.st/secure/eDUvyvMrgzhXLWxRulUuXeCJKlmJMDaN/rtmp/stream/c9tjRq58zArb8eq1hesNSPRlmLZuqRh2fY7JgtpvfYfofuepsCRMCbQd3hGeskOBnm5HFjH1H7k/1/high/mono.m3u8"
   }
 }
