@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "Canada vs Oman",
-    "date": "08 OCT",
+    "date": "09 OCT",
     "time": "10:45 AM NST",
     "end_time": "07:15 PM NST",
     "stadium": "Al Amerat Cricket Ground, OMAN",
@@ -29,5 +29,14 @@
     "name": "Oman",
     "lineup": "Mohammad Nadeem\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nJatinder Singh\n(C)\nRight-Handed Batsman\nImran Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nJay Odedra\nRight-arm Off Spin Bowler\nHashir Anwar Dafedar\nRight-Handed Batsman\nWasim Ali\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nFaisal Shah\nLeft-arm Medium Fast Bowler\nPruthvikumar Machhi\nLeft-Handed Batsman\nJitenkumar Ramanandi\nLeft-Handed Batsman • Left-arm Medium Bowler\nSamay Shrivastava\nRight-arm Leg Spin Bowler\nHassnain Shah\nRight-arm Medium Fast Bowler\nAshish Odedara\nRight-Handed Batsman\nKaran Sonavale\nRight-Handed Batsman\nVinayak Shukla\n(Wk)\nRight-Handed Batsman\nShakeel Ahmad\nLeft-arm Off Spin Bowler\nHammad Mirza\n(Wk)\nRight-Handed Batsman\nImran Muhammed\nRight-arm Fast Medium Bowler\nAryan Bisht\nRight-Handed Batsman"
   },
-  "info_sources": []
+  "info_sources": [
+    {
+      "name": "Best Link - Willow",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nep-can-71"
+    },
+    {
+      "name": "Willow HD",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=nep-can-72"
+    }
+  ]
 }
