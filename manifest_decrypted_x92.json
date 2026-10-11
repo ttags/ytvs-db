@@ -84,8 +84,9 @@
     "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
   },
   "nep-can1": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/5ha6-dahz/chunklist_i1_DVR.m3u8"
+    "type": "direct",
+    "url": "https://ytvs-render.pages.dev/shaka?hls=https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/5ha6-dahz/chunklist_i1_DVR.m3u8",
+    "sandboxed": false
   },
   "ind-wes-41": {
     "type": "hls",
