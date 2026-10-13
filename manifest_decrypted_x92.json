@@ -83,9 +83,27 @@
     "type": "hls",
     "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
   },
+  "ind-wes-24": {
+    "type": "dash",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cp3g1fxief/out/v1/c24f3ab23c4442118b881700b15e2568/cenc.mpd",
+    "keyId": "cc795082715e39585bb8b9913a2072db",
+    "key": "b6a161d647a3e1319649cbae2ee256bf"
+  },
   "nep-can1": {
     "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/5ha6-dahz/chunklist_i1_DVR.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/32za-vc2x/chunklist_i1_DVR.m3u8"
+  },
+  "nep-can2": {
+    "type": "hls",
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/32za-vc2x/chunklist_i1_DVR.m3u8"
+  },
+  "nep-can3": {
+    "type": "hls",
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/32za-vc2x/chunklist_i1_DVR.m3u8"
+  },
+  "nep-can4": {
+    "type": "hls",
+    "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/live-hls/32za-vc2x/chunklist_i1_DVR.m3u8"
   },
   "ind-wes-41": {
     "type": "hls",
