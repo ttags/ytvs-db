@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Biratnagar Kings vs Chitwan Rhinos",
+    "date": "27 OCT",
+    "time": "12:30 PM NST",
+    "end_time": "04:30 PM NST",
+    "stadium": "Tribhuvan University International Cricket Ground, Kirtipur",
+    "league": "NPL - Nepal Premier League",
+    "round": "Leage Stage",
+    "broadcaster": "Dishhome Go, Himalaya TV HD, Regional Distributers, Fancode in India",
+    "banner_image": "https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png|https://chitwanrhinos.com/rhinos-logo.png",
+    "lineup_published": false,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "24",
+      "precipitation": "14"
+    },
+    "h2h": "<table><thead><tr><th>Team</th><th>Matches Played</th><th>Won</th><th>Lost</th><th>Highest Score</th><th>Lowest Score</th></tr></thead><tbody><tr><td>Biratnagar Kings</td><td>2</td><td>1</td><td>1</td><td>181/5</td><td>126</td></tr><tr><td>Chitwan Rhinos</td><td>2</td><td>1</td><td>1</td><td>174/5</td><td>130/6</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 40,
+      "away": 60
+    }
+  },
+  "team1": {
+    "name": "Biratnagar Kings",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Chitwan Rhinos",
+    "lineup": ""
+  },
+  "info_sources": []
+}
