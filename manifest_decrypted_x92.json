@@ -1,0 +1,53 @@
+{
+  "ind-wes-21": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+    "keyId": "69a5aa835a061ce64a630d1046727e40",
+    "key": "d02feac8a999bd06bf4059bf33411749"
+  },
+  "ind-wes-22": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
+  "ind-wes-23": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+  },
+  "ind-wes-24": {
+    "type": "dash",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd",
+    "keyId": "a9fb7988fa5687d620e07587aed50f4a",
+    "key": "ad2265ffa38ab51b0b4e1d14c9192ade"
+  },
+  "ind-wes-25": {
+    "type": "dash",
+    "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
+    "keyId": "c3125d35cc46b342a0534a9c5ddd6d31",
+    "key": "426221d3ffae19a037f5c755508dbf3c"
+  },
+  "bar-rea1": {
+    "type": "direct",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
+    "sandboxed": false
+  },
+  "bar-rea2": {
+    "type": "direct",
+    "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php",
+    "sandboxed": false
+  },
+  "bar-rea3": {
+    "type": "direct",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
+    "sandboxed": false
+  },
+  "bar-rea4": {
+    "type": "direct",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
+    "sandboxed": false
+  },
+  "bar-rea5": {
+    "type": "direct",
+    "url": "https://trend48.st/event/m-barcelona-vs-real-madrid-1025",
+    "sandboxed": true
+  }
+}
