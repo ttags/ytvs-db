@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Janakpur Bolts vs Karnali Yaks",
+    "date": "27 OCT",
+    "time": "04:30 PM NST",
+    "end_time": "08:30 PM NST",
+    "stadium": "Tribhuvan University International Cricket Ground, Kirtipur",
+    "league": "NPL - Nepal Premier League",
+    "round": "Leage Stage",
+    "broadcaster": "Dishhome Go, Himalaya TV HD, Regional Distributers, Fancode in India",
+    "banner_image": "https://boltsjanakpur.com/logo.png|https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png",
+    "lineup_published": false,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "22",
+      "precipitation": "11"
+    },
+    "h2h": "<table><thead><tr><th>Metric</th><th>Janakpur Bolts</th><th>Karnali Yaks</th></tr></thead><tbody><tr><td>Total Matches</td><td>3</td><td>3</td></tr><tr><td>Matches Won</td><td>2</td><td>1</td></tr><tr><td>Highest Score</td><td>142/2 (Dec 2, 2024)</td><td>141/7 (Dec 2, 2024)</td></tr><tr><td>Lowest Score</td><td>126/7 (Dec 7, 2025)</td><td>129/9 (Dec 7, 2025)</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 52.3,
+      "away": 47.7
+    }
+  },
+  "team1": {
+    "name": "Janakpur Bolts",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Karnali Yaks",
+    "lineup": ""
+  },
+  "info_sources": []
+}
