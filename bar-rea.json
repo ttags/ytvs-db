@@ -15,7 +15,7 @@
       "temperature": "29",
       "precipitation": "20"
     },
-    "h2h": "<table><thead><tr><th>Metric</th><th>FC Barcelona</th><th>Real Madrid</th><th>Draws</th></tr></thead><tbody><tr><td>Official Matches Wins</td><td>106</td><td>106</td><td>52</td></tr><tr><td>Goals Scored</td><td>441</td><td>444</td><td>—</td></tr><tr><td>Home Wins</td><td>65</td><td>67</td><td>—</td></tr></tbody></table>",
+    "h2h": "<table><thead><tr><th>Metric</th><th>FC Barcelona</th><th>Real Madrid</th><th>Draws</th></tr></thead><tbody><tr><td>Official Matches Wins</td><td>106</td><td>106</td><td>52</td></tr><tr><td>Goals Scored</td><td>441</td><td>444</td><td>â</td></tr><tr><td>Home Wins</td><td>65</td><td>67</td><td>â</td></tr></tbody></table>",
     "win_probability": {
       "home": 65.5,
       "away": 34.5
