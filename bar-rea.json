@@ -12,8 +12,8 @@
     "lineup_published": true,
     "weather": {
       "condition": "Sunny",
-      "temperature": "29",
-      "precipitation": "20"
+      "temperature": "24",
+      "precipitation": "15"
     },
     "h2h": "<table><thead><tr><th>Metric</th><th>FC Barcelona</th><th>Real Madrid</th><th>Draws</th></tr></thead><tbody><tr><td>Official Matches Wins</td><td>106</td><td>106</td><td>52</td></tr><tr><td>Goals Scored</td><td>441</td><td>444</td><td>â</td></tr><tr><td>Home Wins</td><td>65</td><td>67</td><td>â</td></tr></tbody></table>",
     "win_probability": {
@@ -31,12 +31,24 @@
   },
   "info_sources": [
     {
-      "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=bar-rea1"
+      "name": "HQ Link",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=bar-rea1"
     },
     {
-      "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=bar-rea2"
+      "name": "No Buffer",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=bar-rea2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=bar-rea3"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=bar-rea4"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=bar-rea5"
     }
   ]
 }
