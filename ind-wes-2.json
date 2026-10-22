@@ -1,7 +1,7 @@
 {
   "match": {
     "title": "New Zealand vs India",
-    "date": "22 OCT",
+    "date": "24 OCT",
     "time": "12:45 PM NST",
     "end_time": "04:45 PM NST",
     "stadium": "Hagley Oval",
@@ -11,19 +11,19 @@
     "banner_image": "https://flagcdn.com/w320/nz.png|https://flagcdn.com/w320/in.png",
     "lineup_published": true,
     "weather": {
-      "condition": "Sunny",
-      "temperature": "25",
-      "precipitation": "11"
+      "condition": "Cloudy",
+      "temperature": "22",
+      "precipitation": "14"
     },
     "h2h": "<table><thead><tr><th>Format</th><th>Total Matches</th><th>India Won</th><th>New Zealand Won</th><th>Drawn / Tied / NR</th></tr></thead><tbody><tr><td>Test Matches</td><td>65</td><td>22</td><td>16</td><td>27 (Draws)</td></tr><tr><td>ODI Matches</td><td>123</td><td>63</td><td>52</td><td>1 (Tied), 7 (No Result)</td></tr><tr><td>T20I Matches</td><td>~31</td><td>India leads</td><td>New Zealand</td><td>-</td></tr></tbody></table>",
     "win_probability": {
-      "home": 71.6,
-      "away": 28.4
+      "home": 47.6,
+      "away": 52.4
     }
   },
   "team1": {
     "name": "New Zealand",
-    "lineup": "Sanju Samson\n(Wk)\nRight-Handed Batsman\nAxar Patel\nLeft-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\nKuldeep Yadav\nLeft-arm Leg Spin Bowler\nShreyas Iyer\n(C)\nRight-Handed Batsman\nIshan Kishan\n(Wk)\nLeft-Handed Batsman\nShivam Dube\nLeft-Handed Batsman Ã¢ÂÂ¢ Right-arm Medium Bowler\nAbhishek Sharma\nLeft-Handed Batsman Ã¢ÂÂ¢ Left-arm Off Spin Bowler\nArshdeep Singh\nLeft-arm Medium Fast Bowler\nTilak Varma\nLeft-Handed Batsman\nRavi Bishnoi\nRight-arm Leg Spin Bowler\nNitish Kumar Reddy\nRight-Handed Batsman Ã¢ÂÂ¢ Right-arm Medium Fast Bowler\nMayank Yadav\nRight-arm Fast Bowler\nNaman Dhir\nRight-Handed Batsman Ã¢ÂÂ¢ Right-arm Off Spin Bowler\nPrince Yadav\nRight-arm Fast Bowler\nVaibhav Sooryavanshi\nLeft-Handed Batsman"
+    "lineup": "Adam Milne\nRight-arm Fast Bowler\nDevon Conway\n(Wk)\nLeft-Handed Batsman\nDaryl Mitchell\nRight-Handed Batsman • Right-arm Medium Bowler\nJacob Duffy\nRight-arm Fast Medium Bowler\nMitchell Santner\n(C)\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nMatt Henry\nRight-arm Fast Medium Bowler\nMichael Bracewell\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nLockie Ferguson\nRight-arm Fast Bowler\nKyle Jamieson\nRight-arm Fast Medium Bowler\nTim Seifert\n(Wk)\nRight-Handed Batsman\nGlenn Phillips\nRight-Handed Batsman • Right-arm Off Spin Bowler\nBlair Tickner\nRight-arm Medium Fast Bowler\nJosh Clarkson\nRight-Handed Batsman • Right-arm Medium Bowler\nFinn Allen\nRight-Handed Batsman\nNathan Smith\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nBevon Jacobs\nRight-Handed Batsman"
   },
   "team2": {
     "name": "India",
@@ -31,11 +31,11 @@
   },
   "info_sources": [
     {
-      "name": "Link 2",
+      "name": "Best Link - Zero Ads",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-21"
     },
     {
-      "name": "Willow HD",
+      "name": "Good Link",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-22"
     },
     {
@@ -45,6 +45,10 @@
     {
       "name": "Link 4",
       "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-24"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-25"
     }
   ]
 }
