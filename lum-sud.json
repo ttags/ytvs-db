@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Lumibini Lions vs Sudurpaschim Royals",
+    "date": "26 OCT",
+    "time": "04:30 PM NST",
+    "end_time": "08:30 PM NST",
+    "stadium": "Tribhuvan University International Cricket Ground, Kirtipur",
+    "league": "NPL - Nepal Premier League",
+    "round": "",
+    "broadcaster": "Dishhome Go, Himalaya TV HD, Regional Distributers, Fancode in India",
+    "banner_image": "https://lions-chatbot.bdpl.com.np/logo.png|https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
+    "lineup_published": false,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "23",
+      "precipitation": "13"
+    },
+    "h2h": "<table><thead><tr><th>Metric</th><th>SP</th><th>LI</th></tr></thead><tbody><tr><td>Matches Played</td><td>3</td><td>3</td></tr><tr><td>Won</td><td>2</td><td>1</td></tr><tr><td>Lost</td><td>1</td><td>2</td></tr><tr><td>Highest Total</td><td>187/4</td><td>143</td></tr><tr><td>Lowest Total</td><td>85</td><td>86/4</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 40,
+      "away": 60
+    }
+  },
+  "team1": {
+    "name": "Lumibini Lions",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "Sudurpaschim Royals",
+    "lineup": ""
+  },
+  "info_sources": []
+}
