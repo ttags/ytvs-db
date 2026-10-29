@@ -6,7 +6,7 @@
     "key": "d02feac8a999bd06bf4059bf33411749"
   },
   "ind-wes-22": {
-    "type": "hls",
+    "type": "direct-sandbox",
     "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
   },
   "ind-wes-23": {
@@ -20,34 +20,43 @@
     "key": "ad2265ffa38ab51b0b4e1d14c9192ade"
   },
   "ind-wes-25": {
-    "type": "dash",
-    "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd",
-    "keyId": "c3125d35cc46b342a0534a9c5ddd6d31",
-    "key": "426221d3ffae19a037f5c755508dbf3c"
+    "type": "direct-sandbox",
+    "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd"
   },
   "bar-rea1": {
-    "type": "direct",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
-    "sandboxed": false
+    "type": "direct-autoplay",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php"
   },
   "bar-rea2": {
-    "type": "direct",
-    "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php",
-    "sandboxed": false
+    "type": "direct-sandbox",
+    "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php"
   },
   "bar-rea3": {
-    "type": "direct",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php",
-    "sandboxed": false
+    "type": "direct-sandbox",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php"
   },
   "bar-rea4": {
-    "type": "direct",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php",
-    "sandboxed": false
+    "type": "direct-sandbox",
+    "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php"
   },
   "bar-rea5": {
-    "type": "direct",
-    "url": "https://trend48.st/event/m-barcelona-vs-real-madrid-1025",
-    "sandboxed": true
+    "type": "direct-sandbox",
+    "url": "https://trend48.st/event/m-barcelona-vs-real-madrid-1025"
+  },
+  "kat-jan1": {
+    "type": "hls",
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+  },
+  "kat-jan2": {
+    "type": "hls",
+    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+  },
+  "kat-jan3": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan4": {
+    "type": "hls",
+    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/2tqs-7xwh/chunklist_i1_DVR.m3u8"
   }
 }
