@@ -32,23 +32,23 @@
   "info_sources": [
     {
       "name": "Best Link - Zero Ads",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-21"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=ind-wes-21"
     },
     {
       "name": "Good Link",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-22"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=ind-wes-22"
     },
     {
       "name": "Best Link - Willow",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-23"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=ind-wes-23"
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-24"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=ind-wes-24"
     },
     {
       "name": "Link 5",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=https://ytvs-render.pages.dev/shaka?ref=ind-wes-25"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=ind-wes-25"
     }
   ]
 }
