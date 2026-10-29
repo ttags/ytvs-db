@@ -1,0 +1,50 @@
+{
+  "match": {
+    "title": "Karnali Yaks vs Biratnagar Kings",
+    "date": "29 OCT",
+    "time": "05:00 PM NST",
+    "end_time": "09:00 PM NST",
+    "stadium": "TU Stadium",
+    "league": "Nepal Premier League NPL",
+    "round": "League Stage",
+    "broadcaster": "Dishhome Go, Himalaya TV HD, Regional Distributers, Fancode in India",
+    "banner_image": "https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png|https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "28",
+      "precipitation": "20"
+    },
+    "h2h": "",
+    "win_probability": {
+      "home": 45.1,
+      "away": 54.9
+    }
+  },
+  "team1": {
+    "name": "Karnali Yaks",
+    "lineup": "Anil Sha (c & wk), Kusal Perera, Bikash Agri, Aaditya Mahata, Bishal Kumar Patel, Rit Gautam, Santosh Karki, Harmeet Singh, Iftikhar Ahmed, Jimmy Neesham, Moeen Ali, Mayank Yadav, Trit Raj Das, Abhishek Tiwari, Amar Routela, Hunain Shah, Maaz Sadaqat, Lalit Rajbansi, Ashutosh Pandey, Bishal Shusling"
+  },
+  "team2": {
+    "name": "Biratnagar Kings",
+    "lineup": "Ariful Islam, David Miller, Hikmat Bahadur Shahi, Sompal Kami (c), Deepak Dumre (wk), Sachin Sharma, Diwan Pun, Hussain Talat, Mark Watt, Gulshan Jha, Pawan Sarraf, Unish Bikram Singh Thakur, Subham Tiwari, Bipin Sharma, Nandan Yadav, Yuvraj Khatri, Dipendra Rawat, Surya Tamang, Akbar Ali"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-21"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-22"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-23"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-24"
+    }
+  ]
+}
