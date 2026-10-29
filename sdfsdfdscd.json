@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "",
+    "date": "",
+    "time": "",
+    "end_time": "",
+    "stadium": "",
+    "league": "csdvcsdv",
+    "round": "",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/je.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "25",
+      "precipitation": "12"
+    },
+    "h2h": "",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "ferfefds",
+    "lineup": ""
+  },
+  "team2": {
+    "name": "",
+    "lineup": ""
+  },
+  "info_sources": []
+}
