@@ -49,7 +49,7 @@
   },
   "kat-jan2": {
     "type": "hls",
-    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/nu6r-ajm1/chunklist_i1.m3u8"
   },
   "kat-jan3": {
     "type": "hls",
@@ -57,7 +57,7 @@
   },
   "kat-jan4": {
     "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/2tqs-7xwh/chunklist_i1_DVR.m3u8"
+    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/nu6r-ajm1/chunklist_i1.m3u8"
   },
   "kat-jan-21": {
     "type": "hls",
