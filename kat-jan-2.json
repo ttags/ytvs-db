@@ -1,28 +1,28 @@
 {
   "match": {
-    "title": "Karnali Yaks vs Biratnagar Kings",
-    "date": "29 OCT",
+    "title": "Sudurpaschim Royals vs Biratnagar Kings",
+    "date": "31 OCT",
     "time": "05:00 PM NST",
     "end_time": "09:00 PM NST",
     "stadium": "TU Stadium",
     "league": "Nepal Premier League NPL",
     "round": "League Stage",
     "broadcaster": "Dishhome Go, Himalaya TV HD, Regional Distributers, Fancode in India",
-    "banner_image": "https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png|https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png",
+    "banner_image": "https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png|https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png",
     "lineup_published": true,
     "weather": {
       "condition": "Cloudy",
       "temperature": "28",
       "precipitation": "20"
     },
-    "h2h": "",
+    "h2h": "Karnali Yaks and Biratnagar Kings, these two have not faced each other in any major tournament before. So, a head-to-head record is not publicly available. You can guess who is at edge by studying the individual recent forms, past winning streaks, team co-odination of Karnali Yaks and Biratnagar Kings to guess their current strength and momentum.",
     "win_probability": {
       "home": 45.1,
       "away": 54.9
     }
   },
   "team1": {
-    "name": "Karnali Yaks",
+    "name": "Sudurpaschim Royals",
     "lineup": "Anil Sha (c & wk), Kusal Perera, Bikash Agri, Aaditya Mahata, Bishal Kumar Patel, Rit Gautam, Santosh Karki, Harmeet Singh, Iftikhar Ahmed, Jimmy Neesham, Moeen Ali, Mayank Yadav, Trit Raj Das, Abhishek Tiwari, Amar Routela, Hunain Shah, Maaz Sadaqat, Lalit Rajbansi, Ashutosh Pandey, Bishal Shusling"
   },
   "team2": {
@@ -45,6 +45,18 @@
     {
       "name": "Link 4",
       "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-24"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-25"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-26"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-jan-27"
     }
   ]
 }
