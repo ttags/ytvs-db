@@ -1,55 +1,11 @@
 {
-  "ind-wes-21": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-    "keyId": "69a5aa835a061ce64a630d1046727e40",
-    "key": "d02feac8a999bd06bf4059bf33411749"
-  },
-  "ind-wes-22": {
-    "type": "direct-sandbox",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-  },
-  "ind-wes-23": {
-    "type": "hls",
-    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
-  },
-  "ind-wes-24": {
-    "type": "dash",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otxvvjcsxz/out/v1/b0905b5731f249b1a5020054715fb462/cenc.mpd",
-    "keyId": "a9fb7988fa5687d620e07587aed50f4a",
-    "key": "ad2265ffa38ab51b0b4e1d14c9192ade"
-  },
-  "ind-wes-25": {
-    "type": "direct-sandbox",
-    "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd"
-  },
-  "bar-rea1": {
-    "type": "direct-autoplay",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd3.php"
-  },
-  "bar-rea2": {
-    "type": "direct-sandbox",
-    "url": "https://ww1.sportsonnline.click/channels/pt/sporttv5.php"
-  },
-  "bar-rea3": {
-    "type": "direct-sandbox",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd2.php"
-  },
-  "bar-rea4": {
-    "type": "direct-sandbox",
-    "url": "https://ww1.sportsonnline.click/channels/hd/hd1.php"
-  },
-  "bar-rea5": {
-    "type": "direct-sandbox",
-    "url": "https://trend48.st/event/m-barcelona-vs-real-madrid-1025"
-  },
   "kat-jan1": {
     "type": "hls",
-    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   },
   "kat-jan2": {
     "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/nu6r-ajm1/chunklist_i1.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   },
   "kat-jan3": {
     "type": "hls",
@@ -57,15 +13,23 @@
   },
   "kat-jan4": {
     "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/nu6r-ajm1/chunklist_i1.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan5": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan6": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   },
   "kat-jan-21": {
     "type": "hls",
-    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   },
   "kat-jan-22": {
     "type": "hls",
-    "url": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/playlist.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   },
   "kat-jan-23": {
     "type": "hls",
@@ -73,6 +37,46 @@
   },
   "kat-jan-24": {
     "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/v13wgnv6/live-hls/2tqs-7xwh/chunklist_i1_DVR.m3u8"
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-25": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-26": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-27": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-41": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-42": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-43": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-44": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-45": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-46": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
+  },
+  "kat-jan-47": {
+    "type": "hls",
+    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   }
 }
