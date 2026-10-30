@@ -1,72 +1,32 @@
 [
   {
-    "league": "T20 Series",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=ind-wes-2",
-    "home_team": "New Zealand",
-    "home_flag": "https://flagcdn.com/w320/nz.png",
-    "away_team": "India",
-    "away_flag": "https://flagcdn.com/w320/in.png",
-    "start_time": "2026-10-24T12:45:00+05:45",
-    "end_time": "2026-10-24T16:45:00+05:45"
-  },
-  {
-    "league": "Football Match - El Classico",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=bar-rea",
-    "home_team": "Barcelona",
-    "home_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/paYnEE8hcrP96neHRNofhQ_96x96.png",
-    "away_team": "Real Madrid",
-    "away_flag": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-    "start_time": "2026-10-26T01:45:00+05:45",
-    "end_time": "2026-10-26T05:15:00+05:45"
-  },
-  {
-    "league": "NPL - Nepal Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=lum-sud",
-    "home_team": "Lumibini Lions",
-    "home_flag": "https://lions-chatbot.bdpl.com.np/logo.png",
-    "away_team": "Sudurpaschim Royals",
-    "away_flag": "https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
-    "start_time": "2026-10-26T16:30:00+05:45",
-    "end_time": "2026-10-26T20:30:00+05:45"
-  },
-  {
-    "league": "NPL - Nepal Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=lum-sud-2",
-    "home_team": "Biratnagar Kings",
-    "home_flag": "https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png",
-    "away_team": "Chitwan Rhinos",
-    "away_flag": "https://chitwanrhinos.com/rhinos-logo.png",
-    "start_time": "2026-10-27T12:30:00+05:45",
-    "end_time": "2026-10-27T16:30:00+05:45"
-  },
-  {
-    "league": "NPL - Nepal Premier League",
-    "match_link": "https://www.yonotvs.com/p/match-details.html?id=lum-sud-3",
-    "home_team": "Janakpur Bolts",
-    "home_flag": "https://boltsjanakpur.com/logo.png",
-    "away_team": "Karnali Yaks",
-    "away_flag": "https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png",
-    "start_time": "2026-10-27T16:30:00+05:45",
-    "end_time": "2026-10-27T20:30:00+05:45"
-  },
-  {
     "league": "Nepal Premier League NPL",
     "match_link": "https://yakimatchid?id=kat-jan",
-    "home_team": "Kathmandu Gurkhas",
-    "home_flag": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png",
-    "away_team": "Janakpur Bolts",
-    "away_flag": "https://boltsjanakpur.com/logo.png",
-    "start_time": "2026-10-29T12:30:00+05:45",
-    "end_time": "2026-10-29T16:30:00+05:45"
+    "home_team": "Lumbini Lions",
+    "home_flag": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png",
+    "away_team": "Chitwan Rhinos",
+    "away_flag": "https://chitwanrhinos.com/rhinos-logo.png",
+    "start_time": "2026-10-31T12:30:00+05:45",
+    "end_time": "2026-10-31T16:30:00+05:45"
   },
   {
     "league": "Nepal Premier League NPL",
     "match_link": "https://yakimatchid?id=kat-jan-2",
-    "home_team": "Karnali Yaks",
-    "home_flag": "https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png",
+    "home_team": "Sudurpaschim Royals",
+    "home_flag": "https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
     "away_team": "Biratnagar Kings",
     "away_flag": "https://nplt20league.com/uploads/biratnagar-kings-munr64ub-ac787c36-585f-4e54-9c0b-a9da0e0597c3.png",
-    "start_time": "2026-10-29T17:00:00+05:45",
-    "end_time": "2026-10-29T21:00:00+05:45"
+    "start_time": "2026-10-31T17:00:00+05:45",
+    "end_time": "2026-10-31T21:00:00+05:45"
+  },
+  {
+    "league": "Nepal Premier League NPL",
+    "match_link": "https://yakimatchid?id=kat-jan-4",
+    "home_team": "Janakpur Bolts",
+    "home_flag": "https://boltsjanakpur.com/logo.png",
+    "away_team": "Pokhara Avengers",
+    "away_flag": "https://pokharaavengers.com/logo.png",
+    "start_time": "2026-11-01T17:00:00+05:45",
+    "end_time": "2026-11-01T21:00:00+05:45"
   }
 ]
