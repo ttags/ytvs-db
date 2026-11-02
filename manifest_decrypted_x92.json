@@ -50,33 +50,5 @@
   "kat-jan-27": {
     "type": "hls",
     "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-41": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-42": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-43": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-44": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-45": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-46": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
-  },
-  "kat-jan-47": {
-    "type": "hls",
-    "url": "https://ott-lb.nettv.com.np/iptvlivestream/hpremiumPAID/playlist.m3u8"
   }
 }
