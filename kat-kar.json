@@ -1,0 +1,38 @@
+{
+  "match": {
+    "title": "Kathmandu Gurkhas vs Karnali Yaks",
+    "date": "02 NOV",
+    "time": "12:30 PM NST",
+    "end_time": "04:30 PM NST",
+    "stadium": "TU Stadium",
+    "league": "Nepal Premier League",
+    "round": "League stage",
+    "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
+    "banner_image": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png|https://app.karnaliyaks.com/storage/files/files/karnali-yaks-logo.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "24",
+      "precipitation": "13"
+    },
+    "h2h": "Kathmandu Gurkhas and Karnali Yaks, these two have not faced each other in any major tournament before. So, a head-to-head record is not publicly available. You can guess who is at edge by studying the individual recent forms, past winning streaks, team co-odination of Kathmandu Gurkhas and Karnali Yaks to guess their current strength and momentum.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Kathmandu Gurkhas",
+    "lineup": "Anil Sha (c & wk), Kusal Perera, Bikash Agri, Aaditya Mahata, Bishal Kumar Patel, Rit Gautam, Santosh Karki, Harmeet Singh, Iftikhar Ahmed, Jimmy Neesham, Moeen Ali, Mayank Yadav, Trit Raj Das, Abhishek Tiwari, Amar Routela, Hunain Shah, Maaz Sadaqat, Lalit Rajbansi, Ashutosh Pandey, Bishal Shusling"
+  },
+  "team2": {
+    "name": "Karnali Yaks",
+    "lineup": "Anil Sha (c & wk), Kusal Perera, Bikash Agri, Aaditya Mahata, Bishal Kumar Patel, Rit Gautam, Santosh Karki, Harmeet Singh, Iftikhar Ahmed, Jimmy Neesham, Moeen Ali, Mayank Yadav, Trit Raj Das, Abhishek Tiwari, Amar Routela, Hunain Shah, Maaz Sadaqat, Lalit Rajbansi, Ashutosh Pandey, Bishal Shusling"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar1"
+    }
+  ]
+}
