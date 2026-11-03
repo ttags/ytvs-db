@@ -1,14 +1,14 @@
 {
   "match": {
-    "title": "Lumbini Lions vs Pokhara Avengers",
-    "date": "03 NOV",
-    "time": "05:00 PM NST",
-    "end_time": "09:00 PM NST",
+    "title": "Lumbini Lions vs Janakpur Bolts",
+    "date": "04 NOV",
+    "time": "12:30 PM NST",
+    "end_time": "04:30 PM NST",
     "stadium": "TU Stadium",
     "league": "Nepal Premier League",
     "round": "League stage",
     "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
-    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://pokharaavengers.com/logo.png",
+    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://boltsjanakpur.com/logo.png",
     "lineup_published": true,
     "weather": {
       "condition": "Sunny",
@@ -26,29 +26,35 @@
     "lineup": "Anil Sha (c & wk), Kusal Perera, Bikash Agri, Aaditya Mahata, Bishal Kumar Patel, Rit Gautam, Santosh Karki, Harmeet Singh, Iftikhar Ahmed, Jimmy Neesham, Moeen Ali, Mayank Yadav, Trit Raj Das, Abhishek Tiwari, Amar Routela, Hunain Shah, Maaz Sadaqat, Lalit Rajbansi, Ashutosh Pandey, Bishal Shusling"
   },
   "team2": {
-    "name": "Pokhara Avengers",
+    "name": "Janakpur Bolts",
     "lineup": "Ariful Islam, David Miller, Hikmat Bahadur Shahi, Sompal Kami (c), Deepak Dumre (wk), Sachin Sharma, Diwan Pun, Hussain Talat, Mark Watt, Gulshan Jha, Pawan Sarraf, Unish Bikram Singh Thakur, Subham Tiwari, Bipin Sharma, Nandan Yadav, Yuvraj Khatri, Dipendra Rawat, Surya Tamang, Akbar Ali"
   },
   "info_sources": [
     {
-      "name": "Babal Quality Link",
-      "url": "https://budgetezy.org/4/784b10c7718e51e6baf065a4412b262b"
+      "name": "Link 1",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
     },
     {
-      "name": "Smooth Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-21"
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-22"
     },
     {
-      "name": "HD Link",
-      "url": "https://budgetezy.org/4/784b10c7718e51e6baf065a4412b262b"
+      "name": "Super HD Link 3",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
     },
     {
-      "name": "Smooth Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-21"
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-24"
+    },
+    {
+      "name": "No Lag Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-25"
     },
     {
       "name": "Best Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-23"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-26"
     }
   ]
 }
