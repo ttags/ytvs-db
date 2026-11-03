@@ -31,12 +31,20 @@
   },
   "info_sources": [
     {
+      "name": "Babal Quality Link",
+      "url": "https://budgetezy.org/4/784b10c7718e51e6baf065a4412b262b"
+    },
+    {
       "name": "Smooth Link",
       "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-21"
     },
     {
       "name": "HD Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-22"
+      "url": "https://budgetezy.org/4/784b10c7718e51e6baf065a4412b262b"
+    },
+    {
+      "name": "Smooth Link",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-21"
     },
     {
       "name": "Best Link",
