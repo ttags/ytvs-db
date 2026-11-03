@@ -5,7 +5,31 @@
     "keyId": "82dfca238e8c4b430a3269db71965db9",
     "key": "a00b28caf4ac628e77a553d440c0ddca"
   },
+  "kat-kar2": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "kat-kar3": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
   "kat-kar-21": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "kat-kar-22": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "kat-kar-23": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
     "keyId": "82dfca238e8c4b430a3269db71965db9",
