@@ -32,7 +32,7 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar1"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar1"
     },
     {
       "name": "Super HD Link",
@@ -53,17 +53,13 @@
       "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar5"
     },
     {
-      "name": "Link 6",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar6"
-    },
-    {
       "name": "Mobile HD Link",
       "url": "https://hai8g.com/4/11249366",
       "type": "smartlink"
     },
     {
       "name": "Iphone HD Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar8"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar7"
     }
   ]
 }
