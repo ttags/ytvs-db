@@ -32,7 +32,7 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar-21"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-21"
     },
     {
       "name": "Super HD Link",
@@ -45,32 +45,25 @@
     },
     {
       "name": "Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar-24"
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
     },
     {
       "name": "Link 5",
       "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar-25"
     },
     {
-      "name": "Link 2",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-26"
+      "name": "Link 6",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=kat-kar-26"
     },
     {
-      "name": "Super HD Link 3",
+      "name": "Mobile HD Link",
       "url": "https://hai8g.com/4/11249366",
       "type": "smartlink"
     },
     {
-      "name": "Link 3",
+      "name": "Iphone HD Link",
       "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-28"
-    },
-    {
-      "name": "No Lag Link 4",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-29"
-    },
-    {
-      "name": "Best Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=kat-kar-210"
     }
   ]
 }
