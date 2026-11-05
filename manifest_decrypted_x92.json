@@ -1,41 +1,33 @@
 {
   "kat-kar-21": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/3k8z-wjcq/chunklist_i1_DVR.m3u8"
-  },
-  "kat-kar-23": {
     "type": "direct-nosandbox",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar-25": {
+  "kat-kar-23": {
     "type": "direct-autoplay",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar-26": {
+  "kat-kar-25": {
     "type": "direct-nosandbox",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar-28": {
+  "kat-kar-27": {
     "type": "hls",
     "url": "https://hai8g.com/4/11249366"
   },
   "kat-kar1": {
-    "type": "hls",
-    "url": "https://hugh.cdn.rumble.cloud/live/kd32s8ur/live-hls/3k8z-wjcq/chunklist_i1_DVR.m3u8"
-  },
-  "kat-kar3": {
     "type": "direct-nosandbox",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar5": {
+  "kat-kar3": {
     "type": "direct-autoplay",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar6": {
+  "kat-kar5": {
     "type": "direct-nosandbox",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar8": {
+  "kat-kar7": {
     "type": "hls",
     "url": "https://hai8g.com/4/11249366"
   }
