@@ -4,7 +4,7 @@
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
   "kat-kar-23": {
-    "type": "direct-sandbox",
+    "type": "direct-autoplay",
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
   "kat-kar-24": {
@@ -12,22 +12,26 @@
     "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
   "kat-kar-25": {
-    "type": "dash",
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-    "keyId": "82dfca238e8c4b430a3269db71965db9",
-    "key": "a00b28caf4ac628e77a553d440c0ddca"
+    "type": "direct-sandbox",
+    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
   },
-  "kat-kar-27": {
+  "kat-kar-26": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
     "keyId": "82dfca238e8c4b430a3269db71965db9",
     "key": "a00b28caf4ac628e77a553d440c0ddca"
   },
   "kat-kar-28": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "kat-kar-29": {
     "type": "hls",
     "url": "https://hai8g.com/4/11249366"
   },
-  "kat-kar-29": {
+  "kat-kar-210": {
     "type": "dash",
     "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
     "keyId": "82dfca238e8c4b430a3269db71965db9",
