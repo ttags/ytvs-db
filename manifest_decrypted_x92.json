@@ -1,34 +1,34 @@
 {
   "kat-kar-21": {
-    "type": "dash",
-    "url": "URL_HERE"
+    "type": "direct-nosandbox",
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar-23": {
-    "type": "direct-autoplay",
-    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
+    "type": "direct-nosandbox",
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar-25": {
     "type": "direct-nosandbox",
-    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar-27": {
     "type": "hls",
-    "url": "https://hai8g.com/4/11249366"
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar1": {
     "type": "direct-nosandbox",
-    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar3": {
-    "type": "direct-autoplay",
-    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
+    "type": "direct-nosandbox",
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar5": {
     "type": "direct-nosandbox",
-    "url": "https://truckrefuse.net/e/66ci9zl8uuao6"
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   },
   "kat-kar7": {
     "type": "hls",
-    "url": "https://hai8g.com/4/11249366"
+    "url": "https://wearwait.net/e/2259bb3d9sr2r"
   }
 }
