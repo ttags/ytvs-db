@@ -1,7 +1,11 @@
 {
-  "kat-kar-27": {
-    "type": "hls",
-    "url": "https://hai8g.com/4/11249366"
+  "kat-kar1": {
+    "type": "direct-nosandbox",
+    "url": "https://wicket-goal.pages.dev/player/?id=NPL"
+  },
+  "kat-kar3": {
+    "type": "direct-nosandbox",
+    "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
   },
   "kat-kar7": {
     "type": "hls",
