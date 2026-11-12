@@ -1,13 +1,17 @@
 {
-  "kat-kar1": {
-    "type": "direct-nosandbox",
-    "url": "https://wicket-goal.pages.dev/player/?id=NPL"
-  },
   "kat-kar3": {
     "type": "direct-nosandbox",
-    "url": "https://wicket-goal.pages.dev/player/?id=NPL1"
+    "url": "https://hai8g.com/4/11249366"
   },
   "kat-kar7": {
+    "type": "hls",
+    "url": "https://hai8g.com/4/11249366"
+  },
+  "kat-kar-23": {
+    "type": "direct-nosandbox",
+    "url": "https://hai8g.com/4/11249366"
+  },
+  "kat-kar-27": {
     "type": "hls",
     "url": "https://hai8g.com/4/11249366"
   }
