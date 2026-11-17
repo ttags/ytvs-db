@@ -32,8 +32,7 @@
   "info_sources": [
     {
       "name": "Link 1",
-      "url": "https://hai8g.com/4/11249366",
-      "type": "smartlink"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-sud1"
     },
     {
       "name": "Super HD Link",
@@ -41,13 +40,16 @@
       "type": "smartlink"
     },
     {
+      "name": "Link 2 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-sud3"
+    },
+    {
       "name": "Link 3",
-      "url": "https://ytvs-frame.pages.dev/frame?ref=lum-sud3"
+      "url": "https://ytvs-frame.pages.dev/frame?ref=lum-sud4"
     },
     {
       "name": "Link 4",
-      "url": "https://hai8g.com/4/11249366",
-      "type": "smartlink"
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-sud5"
     },
     {
       "name": "Link 5",
@@ -55,13 +57,14 @@
       "type": "smartlink"
     },
     {
-      "name": "Mobile HD Link",
+      "name": "Link 6",
       "url": "https://hai8g.com/4/11249366",
       "type": "smartlink"
     },
     {
-      "name": "Iphone HD Link",
-      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-sud7"
+      "name": "Link 7",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
     }
   ]
 }
