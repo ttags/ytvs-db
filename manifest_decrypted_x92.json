@@ -20,5 +20,85 @@
     "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
     "keyId": "b4d7fc89103597185058cc4c81a1800d",
     "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "aus-eng1": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "aus-eng3": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "aus-eng4": {
+    "type": "direct-nosandbox",
+    "url": "https://hai8g.com/4/11249366"
+  },
+  "aus-eng5": {
+    "type": "dash",
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+    "keyId": "82dfca238e8c4b430a3269db71965db9",
+    "key": "a00b28caf4ac628e77a553d440c0ddca"
+  },
+  "aus-eng6": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "aus-eng10": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
+  },
+  "aus-eng11": {
+    "type": "hls",
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
+  "abc-def1": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "abc-def3": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "abc-def4": {
+    "type": "direct-nosandbox",
+    "url": "https://hai8g.com/4/11249366"
+  },
+  "abc-def5": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "xyz-cyz1": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "xyz-cyz3": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
+  },
+  "xyz-cyz4": {
+    "type": "direct-nosandbox",
+    "url": "https://hai8g.com/4/11249366"
+  },
+  "xyz-cyz5": {
+    "type": "dash",
+    "url": "https://ott-edge-mtdc04.nettv.com.np/npl/live_match3/index.mpd",
+    "keyId": "b4d7fc89103597185058cc4c81a1800d",
+    "key": "17062472ba2a3f1db709d3bb7761c936"
   }
 }
