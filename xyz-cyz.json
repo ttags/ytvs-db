@@ -1,0 +1,70 @@
+{
+  "match": {
+    "title": "XYZ1 vs CYZ3",
+    "date": "18 NOV",
+    "time": "05:00 PM NST",
+    "end_time": "09:00 PM NST",
+    "stadium": "TU Stadium",
+    "league": "Nepal Premier League NPL",
+    "round": "League stage",
+    "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
+    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "17",
+      "precipitation": "6"
+    },
+    "h2h": "<table><thead><tr><th>Metric</th><th>Lumbini Lions</th><th>Sudurpaschim Royals</th></tr></thead><tbody><tr><td>Matches Played</td></tr><tr><td></td><td>4</td><td>4</td></tr><tr><td>Matches Won</td></tr><tr><td></td><td>2</td><td>2</td></tr><tr><td>Matches Lost</td></tr><tr><td></td><td>2</td><td>2</td></tr><tr><td>Win Percentage</td></tr><tr><td></td><td>50%</td><td>50%</td></tr><tr><td>Highest Team Total</td></tr><tr><td></td><td>143</td><td>187/4</td></tr><tr><td>Lowest Team Total</td></tr><tr><td></td><td>142/9</td><td>85</td></tr><tr><td>Most Runs</td></tr><tr><td></td><td>Bibek Yadav (77)</td><td>Saif Zaib (103)</td></tr><tr><td>Most Wickets</td></tr><tr><td></td><td>Sher Malla (6)</td><td>Abinash Bohara (5)</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 61.6,
+      "away": 38.4
+    }
+  },
+  "team1": {
+    "name": "XYZ1",
+    "lineup": "Rohit Kumar Paudel (Captain) Batting All-rounder / Batter\nNiroshan Dickwella Wicketkeeper-Batter\nAasif Sheikh Batter / Wicketkeeper\nD'\nArcy Short Batting All-rounder\nRuben Trumpelmann Bowler\nGulbadin Naib All-rounder\nJJ Smit All-rounder\nShadley van Schalkwyk (Shadley Claude Van Schalkwyk) All-rounder\nGrant Stewart Bowling All-rounder / Batter\nSundeep Jora Batter\nDilip Nath Wicketkeeper-Batter\nSher Malla Bowler / All-rounder\nDurgesh Gupta Bowler\nTilak Raj Bhandari Bowler\nKishor Mahato Bowler\nDinesh Adhikari Bowler / All-rounder\nAbhishesh Gautam Bowler / Batter\nAakash Tripathi Batter / All-rounder\nAli Sheikh All-rounder\nShamim Hossain Batter\nArniko Prasad Yadav Bowler / All-rounder\nAjay Kumar Chauhan Bowler / All-rounder"
+  },
+  "team2": {
+    "name": "CYZ3",
+    "lineup": "Dipendra Singh Airee (Captain) All-Rounder Nepal\nAarif Sheikh All-Rounder / Batter Nepal\nBinod Bhandari Wicketkeeper Batter Nepal\nAbinash Bohara Bowler Nepal\nHemant Dhami Bowler Nepal\nHikmat Mahara All-Rounder Nepal\nIshan Pandey All-Rounder Nepal\nMilan Bohara All-Rounder Nepal\nSachin Bhatta All-Rounder Nepal\nTek Rawat All-Rounder / Batter Nepal\nTek Raj Thalal All-Rounder Nepal\nDipak Bohara Wicketkeeper Nepal\nAyub Chand All-Rounder / Batter Nepal\nAnil Kharel Bowler / Spinner Nepal\nScott Kuggeleijn All-Rounder / Bowler New Zealand\nSaif Ali Zaib All-Rounder Overseas\nSherfane Rutherford Batter West Indies\nBrendon Mc\nMullen All-Rounder Scotland\nTharindu Rathnayake Batter / Spinner Sri Lanka\nFabian Allen All-Rounder"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=xyz-cyz1"
+    },
+    {
+      "name": "Super HD Link",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 2 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=xyz-cyz3"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=xyz-cyz4"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=xyz-cyz5"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    }
+  ]
+}
