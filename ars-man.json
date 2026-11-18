@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Arsenal vs Manchester City",
+    "date": "29 NOV",
+    "time": "10:15 PM NST",
+    "end_time": "02:15 AM NST",
+    "stadium": "Emirates Stadium",
+    "league": "Premier League",
+    "round": "Round 12",
+    "broadcaster": "Star Sports Select 1",
+    "banner_image": "https://flagcdn.com/w320/gb-eng.png|https://flagcdn.com/w320/gb-eng.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "32",
+      "precipitation": "2"
+    },
+    "h2h": "Manchester City lead the overall head-to-head record with 23 wins to Arsenal's 12 and 10 draws, including a 2-1 Premier League win in April 2026, though Arsenal claimed a 3-0 victory when the sides most recently met in the August 2026 Community Shield.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Arsenal",
+    "lineup": "David Raya, Jurrien Timber, Ezri Konsa, Gabriel Magalhaes, Riccardo Calafiori, Bruno Guimaraes, Declan Rice, Noni Madueke, Martin Odegaard, Christos Tzolis, Kai Havertz"
+  },
+  "team2": {
+    "name": "Manchester City",
+    "lineup": "Gianluigi Donnarumma, Abdukodir Khusanov, Ruben Dias, Marc Guehi, Josko Gvardiol, Elliot Anderson, Enzo Fernandez, Iliman Ndiaye, Rayan Cherki, Jeremy Doku, Erling Haaland"
+  },
+  "info_sources": []
+}
