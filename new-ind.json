@@ -1,0 +1,82 @@
+{
+  "match": {
+    "title": "New Zealand vs India",
+    "date": "19 NOV",
+    "time": "03:45 PM NST",
+    "end_time": "11:45 PM NST",
+    "stadium": "Basin Reserve in Wellington.",
+    "league": "Test Series",
+    "round": "Test",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/nz.png|https://flagcdn.com/w320/in.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "17",
+      "precipitation": "3"
+    },
+    "h2h": "<table><thead><tr><th>Format</th><th>Total Matches</th><th>India Won</th><th>New Zealand Won</th><th>Tied / Draw</th><th>No Result</th><th>Latest Series / Status (Nov 2026)</th></tr></thead><tbody><tr><td>Test</td><td>65</td><td>22</td><td>16</td><td>27 Draws</td><td>0</td><td>2-match Test series starts Nov 19, 2026</td></tr><tr><td>ODI</td><td>127</td><td>65</td><td>53</td><td>1 Tie</td><td>8</td><td>India won 5-match ODI series 3–1 (Nov 2026)</td></tr><tr><td>T20I</td><td>36</td><td>22</td><td>13</td><td>1 Tie</td><td>0</td><td>India won 5-match T20I series 3–2 (Oct–Nov 2026)</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 42.5,
+      "away": 57.5
+    }
+  },
+  "team1": {
+    "name": "New Zealand",
+    "lineup": "Adam Milne\nRight-arm Fast Bowler\nDevon Conway\n(Wk)\nLeft-Handed Batsman\nDaryl Mitchell\nRight-Handed Batsman • Right-arm Medium Bowler\nJacob Duffy\nRight-arm Fast Medium Bowler\nMitchell Santner\n(C)\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nMatt Henry\nRight-arm Fast Medium Bowler\nMichael Bracewell\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nLockie Ferguson\nRight-arm Fast Bowler\nKyle Jamieson\nRight-arm Fast Medium Bowler\nTim Seifert\n(Wk)\nRight-Handed Batsman\nGlenn Phillips\nRight-Handed Batsman • Right-arm Off Spin Bowler\nBlair Tickner\nRight-arm Medium Fast Bowler\nJosh Clarkson\nRight-Handed Batsman • Right-arm Medium Bowler\nFinn Allen\nRight-Handed Batsman\nNathan Smith\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nBevon Jacobs\nRight-Handed Batsman"
+  },
+  "team2": {
+    "name": "India",
+    "lineup": "Sanju Samson\n(Wk)\nRight-Handed Batsman\nAxar Patel\nLeft-Handed Batsman â¢ Left-arm Off Spin Bowler\nKuldeep Yadav\nLeft-arm Leg Spin Bowler\nShreyas Iyer\n(C)\nRight-Handed Batsman\nIshan Kishan\n(Wk)\nLeft-Handed Batsman\nShivam Dube\nLeft-Handed Batsman â¢ Right-arm Medium Bowler\nAbhishek Sharma\nLeft-Handed Batsman â¢ Left-arm Off Spin Bowler\nArshdeep Singh\nLeft-arm Medium Fast Bowler\nTilak Varma\nLeft-Handed Batsman\nRavi Bishnoi\nRight-arm Leg Spin Bowler\nNitish Kumar Reddy\nRight-Handed Batsman â¢ Right-arm Medium Fast Bowler\nMayank Yadav\nRight-arm Fast Bowler\nNaman Dhir\nRight-Handed Batsman â¢ Right-arm Off Spin Bowler\nPrince Yadav\nRight-arm Fast Bowler\nVaibhav Sooryavanshi\nLeft-Handed Batsman"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind1"
+    },
+    {
+      "name": "Super HD Link",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 1 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind3"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=new-ind4"
+    },
+    {
+      "name": "Link 1 (New) (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind5"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind6"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 10",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind10"
+    },
+    {
+      "name": "Link 11",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=new-ind11"
+    }
+  ]
+}
