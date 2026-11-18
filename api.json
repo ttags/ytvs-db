@@ -1,25 +1,5 @@
 [
   {
-    "league": "ODI Series Between 2 Nations",
-    "match_link": "https://yakimatchid?id=aus-eng",
-    "home_team": "Australia",
-    "home_flag": "https://flagcdn.com/w320/au.png",
-    "away_team": "England",
-    "away_flag": "https://flagcdn.com/w320/gb-eng.png",
-    "start_time": "2026-11-18T09:15:00+05:45",
-    "end_time": "2026-11-18T17:45:00+05:45"
-  },
-  {
-    "league": "Nepal Premier League NPL",
-    "match_link": "https://yakimatchid?id=kat-chi",
-    "home_team": "Kathmandu Gurkhas",
-    "home_flag": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png",
-    "away_team": "Chitwan Rhinos",
-    "away_flag": "https://chitwanrhinos.com/rhinos-logo.png",
-    "start_time": "2026-11-18T17:00:00+05:45",
-    "end_time": "2026-11-18T21:00:00+05:45"
-  },
-  {
     "league": "Test Series",
     "match_link": "https://yakimatchid?id=new-ind",
     "home_team": "New Zealand",
@@ -31,11 +11,11 @@
   },
   {
     "league": "Nepal Premier League NPL",
-    "match_link": "https://yakimatchid?id=sud-win",
+    "match_link": "https://yakimatchid?id=sud-chi",
     "home_team": "Sudurpaschim Royals",
     "home_flag": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png",
-    "away_team": "Winner of eliminator",
-    "away_flag": "https://flagcdn.com/w320/np.png",
+    "away_team": "Chitwan Rhinos",
+    "away_flag": "https://chitwanrhinos.com/rhinos-logo.png",
     "start_time": "2026-11-19T17:00:00+05:45",
     "end_time": "2026-11-19T21:00:00+05:45"
   },
@@ -48,6 +28,16 @@
     "away_flag": "https://flagcdn.com/w320/np.png",
     "start_time": "2026-11-20T15:45:00+05:45",
     "end_time": "2026-11-20T19:45:00+05:45"
+  },
+  {
+    "league": "T20 Cricket Series",
+    "match_link": "https://yakimatchid?id=aus-eng",
+    "home_team": "Australia",
+    "home_flag": "https://flagcdn.com/w320/au.png",
+    "away_team": "England",
+    "away_flag": "https://flagcdn.com/w320/gb-eng.png",
+    "start_time": "2026-11-21T14:00:00+05:45",
+    "end_time": "2026-11-21T18:00:00+05:45"
   },
   {
     "league": "Nepal Premier League NPL",
