@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "India vs Sri Lanka",
+    "date": "13 DEC",
+    "time": "02:15 PM NST",
+    "end_time": "06:15 PM NST",
+    "stadium": "ACA–VDCA Cricket Stadium, Visakhapatnam",
+    "league": "Sri Lanka tour of India",
+    "round": "1st ODI",
+    "broadcaster": "Star Sports, JioHotstar",
+    "banner_image": "https://flagcdn.com/w320/in.png|https://flagcdn.com/w320/lk.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "30",
+      "precipitation": "6"
+    },
+    "h2h": "India and Sri Lanka have faced each other 171 times in ODI cricket, with India holding a commanding 99-59 head-to-head advantage alongside 11 no-results and 2 ties. Sri Lanka won their most recent bilateral ODI series 2-0 at home in August 2024, snapping a long Indian winning streak in the format.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "India",
+    "lineup": "Rohit Sharma, Shubman Gill, Virat Kohli, Shreyas Iyer, KL Rahul, Axar Patel, Ravindra Jadeja, Naman Dhir, Kuldeep Yadav, Mohammed Siraj, Arshdeep Singh"
+  },
+  "team2": {
+    "name": "Sri Lanka",
+    "lineup": "Pathum Nissanka, Avishka Fernando, Kusal Mendis, Kamindu Mendis, Pavan Rathnayake, Charith Asalanka, Janith Liyanage, Dunith Wellalage, Wanindu Hasaranga, Asitha Fernando, Dilshan Madushanka"
+  },
+  "info_sources": []
+}
