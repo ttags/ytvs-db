@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "India A vs Nepal",
+    "date": "20 NOV",
+    "time": "03:45 PM NST",
+    "end_time": "07:45 PM NST",
+    "stadium": "Doha Qatar Stadium",
+    "league": "ACC Men's Asia Cup Rising Stars Cricket",
+    "round": "",
+    "broadcaster": "Yaki TV",
+    "banner_image": "https://flagcdn.com/w320/in.png|https://flagcdn.com/w320/np.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "28",
+      "precipitation": "9"
+    },
+    "h2h": "India A and Nepal, these two have not faced each other in any major tournament before. So, a head-to-head record is not publicly available. You can guess who is at edge by studying the individual recent forms, past winning streaks, team co-odination of India A and Nepal to guess their current strength and momentum.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "India A",
+    "lineup": "Shahbaz Ahmed\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nRinku Singh\nLeft-Handed Batsman\nAbhishek Sharma\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nTanush Kotian\nRight-Handed Batsman • Right-arm Off Spin Bowler\nAyush Badoni\nRight-Handed Batsman\nPrabhsimran Singh\n(Wk)\nRight-Handed Batsman\nTilak Varma\n(C)\nLeft-Handed Batsman\nHarsh Dubey\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nSuryansh Shedge\nRight-Handed Batsman\nKumar Kushagra\n(Wk)\nRight-Handed Batsman\nArshad Khan\nLeft-arm Medium Bowler\nVipraj Nigam\nRight-Handed Batsman • Right-arm Leg Spin Bowler\nHarshit Rana\nRight-arm Fast Bowler\nPrince Yadav\nRight-arm Fast Bowler\nVaibhav Sooryavanshi\nLeft-Handed Batsman"
+  },
+  "team2": {
+    "name": "Nepal",
+    "lineup": "Rohit Kumar Paudel (Captain) Batting All-rounder / Batter\nNiroshan Dickwella Wicketkeeper-Batter\nAasif Sheikh Batter / Wicketkeeper\nD'\nArcy Short Batting All-rounder\nRuben Trumpelmann Bowler\nGulbadin Naib All-rounder\nJJ Smit All-rounder\nShadley van Schalkwyk (Shadley Claude Van Schalkwyk) All-rounder\nGrant Stewart Bowling All-rounder / Batter\nSundeep Jora Batter\nDilip Nath Wicketkeeper-Batter\nSher Malla Bowler / All-rounder\nDurgesh Gupta Bowler\nTilak Raj Bhandari Bowler\nKishor Mahato Bowler\nDinesh Adhikari Bowler / All-rounder\nAbhishesh Gautam Bowler / Batter\nAakash Tripathi Batter / All-rounder\nAli Sheikh All-rounder\nShamim Hossain Batter\nArniko Prasad Yadav Bowler / All-rounder\nAjay Kumar Chauhan Bowler / All-rounder"
+  },
+  "info_sources": []
+}
