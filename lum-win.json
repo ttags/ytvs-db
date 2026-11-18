@@ -1,0 +1,70 @@
+{
+  "match": {
+    "title": "Lumbini Lions vs Winner of Qualifier 2",
+    "date": "21 NOV",
+    "time": "05:00 PM NST",
+    "end_time": "09:00 PM NST",
+    "stadium": "TU Stadium",
+    "league": "Nepal Premier League NPL",
+    "round": "Final",
+    "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
+    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://flagcdn.com/w320/np.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "18",
+      "precipitation": "5"
+    },
+    "h2h": "<table><thead><tr><th>Statistic</th><th>Kathmandu Gorkhas</th><th>Chitwan Rhinos</th></tr></thead><tbody><tr><td>Matches Played</td></tr><tr><td></td><td>3</td><td>3</td></tr><tr><td>Matches Won</td></tr><tr><td></td><td>2</td><td>1</td></tr><tr><td>Matches Lost</td></tr><tr><td></td><td>1</td><td>2</td></tr><tr><td>No Result / Tied</td></tr><tr><td></td><td>0</td><td>0</td></tr><tr><td>Highest Team Score</td></tr><tr><td></td><td>180/8</td><td>170/7</td></tr><tr><td>Lowest Team Score</td></tr><tr><td></td><td>111/9</td><td>89</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 55,
+      "away": 45
+    }
+  },
+  "team1": {
+    "name": "Lumbini Lions",
+    "lineup": "Rohit Kumar Paudel (Captain) Batting All-rounder / Batter\nNiroshan Dickwella Wicketkeeper-Batter\nAasif Sheikh Batter / Wicketkeeper\nD'\nArcy Short Batting All-rounder\nRuben Trumpelmann Bowler\nGulbadin Naib All-rounder\nJJ Smit All-rounder\nShadley van Schalkwyk (Shadley Claude Van Schalkwyk) All-rounder\nGrant Stewart Bowling All-rounder / Batter\nSundeep Jora Batter\nDilip Nath Wicketkeeper-Batter\nSher Malla Bowler / All-rounder\nDurgesh Gupta Bowler\nTilak Raj Bhandari Bowler\nKishor Mahato Bowler\nDinesh Adhikari Bowler / All-rounder\nAbhishesh Gautam Bowler / Batter\nAakash Tripathi Batter / All-rounder\nAli Sheikh All-rounder\nShamim Hossain Batter\nArniko Prasad Yadav Bowler / All-rounder\nAjay Kumar Chauhan Bowler / All-rounder"
+  },
+  "team2": {
+    "name": "Winner of Qualifier 2",
+    "lineup": "to be decided"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-win1"
+    },
+    {
+      "name": "Super HD Link",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 2 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-win3"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=lum-win4"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=lum-win5"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    }
+  ]
+}
