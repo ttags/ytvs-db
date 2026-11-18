@@ -1,0 +1,70 @@
+{
+  "match": {
+    "title": "Sudurpaschim Royals vs Winner of eliminator",
+    "date": "19 NOV",
+    "time": "05:00 PM NST",
+    "end_time": "09:00 PM NST",
+    "stadium": "TU Stadium",
+    "league": "Nepal Premier League NPL",
+    "round": "Semi Final",
+    "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
+    "banner_image": "https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png|https://flagcdn.com/w320/np.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "15",
+      "precipitation": "1"
+    },
+    "h2h": "<table><thead><tr><th>Statistic</th><th>Kathmandu Gorkhas</th><th>Chitwan Rhinos</th></tr></thead><tbody><tr><td>Matches Played</td></tr><tr><td></td><td>3</td><td>3</td></tr><tr><td>Matches Won</td></tr><tr><td></td><td>2</td><td>1</td></tr><tr><td>Matches Lost</td></tr><tr><td></td><td>1</td><td>2</td></tr><tr><td>No Result / Tied</td></tr><tr><td></td><td>0</td><td>0</td></tr><tr><td>Highest Team Score</td></tr><tr><td></td><td>180/8</td><td>170/7</td></tr><tr><td>Lowest Team Score</td></tr><tr><td></td><td>111/9</td><td>89</td></tr></tbody></table>",
+    "win_probability": {
+      "home": 55,
+      "away": 45
+    }
+  },
+  "team1": {
+    "name": "Sudurpaschim Royals",
+    "lineup": "David Warner\nLeft-Handed Batsman\nWill Bosisto\nRight-Handed Batsman\nSrikar Bharat\n(Wk)\nRight-Handed Batsman\nSmit Patel\nRight-Handed Batsman\nDushan Hemantha\nRight-Handed Batsman • Right-arm Leg Spin Bowler\nSahan Arachchige\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nKaran KC\n(C)\nRight-Handed Batsman • Right-arm Fast Bowler\nSam Heazlett\nLeft-Handed Batsman\nRashid Khan\nRight-arm Medium Fast Bowler\nBhim Sharki\nRight-Handed Batsman\nHarishankar Shah\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nShahab Alam\nLeft-arm Off Spin Bowler\nDev Shah\nLeft-arm Off Spin Bowler\nSumit Maharjan\nRight-Handed Batsman\nAadil Ansari\nRight-Handed Batsman • Right-arm Medium Bowler\nSonu Devkota\nRight-Handed Batsman\nRipon Mondol\nRight-arm Medium Bowler\nSantosh Yadav\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nSahil Patel\n(Wk)\nRight-Handed Batsman\nKrishna Poudel\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nJahandad Khan\nLeft-Handed Batsman • Left-arm Medium Fast Bowler\nDayanand Mandal\nLeft-arm Medium Fast Bowler\nSuryanshu Koirala\nRight-Handed Batsman\nPrasiddha Jaishi\nRight-Handed Batsman • Right-arm Medium Bowler\nGanesh Gautam\nLeft-arm Off Spin Bowler"
+  },
+  "team2": {
+    "name": "Winner of eliminator",
+    "lineup": "to be decided"
+  },
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=sud-win1"
+    },
+    {
+      "name": "Super HD Link",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 2 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=sud-win3"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=sud-win4"
+    },
+    {
+      "name": "Link 4",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=sud-win5"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 6",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 7",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    }
+  ]
+}
