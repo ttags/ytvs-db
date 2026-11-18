@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Newcastle United vs Arsenal",
+    "date": "21 NOV",
+    "time": "11:15 PM NST",
+    "end_time": "03:15 AM NST",
+    "stadium": "St. James' Park",
+    "league": "Premier League",
+    "round": "Round 11",
+    "broadcaster": "Star Sports Select 1",
+    "banner_image": "https://flagcdn.com/w320/gb-eng.png|https://flagcdn.com/w320/gb-eng.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Sunny",
+      "temperature": "32",
+      "precipitation": "5"
+    },
+    "h2h": "Arsenal dominate the recent head-to-head series with 25 wins to Newcastle United's 7 alongside 3 draws, winning both Premier League meetings last season including a 1-0 home victory in April 2026 and a 2-1 triumph at St. James' Park in September 2025.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Newcastle United",
+    "lineup": "Lucas Hornicek, Amar Dedic, Malick Thiaw, Dan Burn, Lewis Hall, Sean Steur, Nico Gonzalez, Jacob Murphy, Yoane Wissa, Harvey Barnes, William Osula"
+  },
+  "team2": {
+    "name": "Arsenal",
+    "lineup": "David Raya, Jurrien Timber, Ezri Konsa, Gabriel Magalhaes, Riccardo Calafiori, Bruno Guimaraes, Declan Rice, Noni Madueke, Martin Odegaard, Christos Tzolis, Kai Havertz"
+  },
+  "info_sources": []
+}
