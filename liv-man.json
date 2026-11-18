@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Liverpool vs Manchester United",
+    "date": "22 NOV",
+    "time": "10:15 PM NST",
+    "end_time": "02:15 AM NST",
+    "stadium": "Anfield",
+    "league": "Premier League",
+    "round": "Round 11",
+    "broadcaster": "Star Sports Select 1",
+    "banner_image": "https://flagcdn.com/w320/gb-eng.png|https://flagcdn.com/w320/gb-eng.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "34",
+      "precipitation": "7"
+    },
+    "h2h": "Manchester United hold a slight edge in recent meetings with 18 wins to Liverpool's 14 alongside 11 draws, though Liverpool won their most recent Premier League clash 3-2 in May 2026 and have kept seven clean sheets in their last 10 league home games against United.",
+    "win_probability": {
+      "home": 50,
+      "away": 50
+    }
+  },
+  "team1": {
+    "name": "Liverpool",
+    "lineup": "Alisson, Ronald Araujo, Jeremy Jacquet, Virgil van Dijk, Milos Kerkez, Alexis Mac Allister, Dominik Szoboszlai, Cody Gakpo, Florian Wirtz, Bradley Barcola, Alexander Isak"
+  },
+  "team2": {
+    "name": "Manchester United",
+    "lineup": "Senne Lammens, Noussair Mazraoui, Leny Yoro, Harry Maguire, Diogo Dalot, Youri Tielemans, Kobbie Mainoo, Amad Diallo, Bruno Fernandes, Matheus Cunha, Bryan Mbeumo"
+  },
+  "info_sources": []
+}
