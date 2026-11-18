@@ -1,0 +1,33 @@
+{
+  "match": {
+    "title": "Pakistan A vs Nepal",
+    "date": "24 NOV",
+    "time": "03:45 PM NST",
+    "end_time": "07:45 PM NST",
+    "stadium": "Asian Town Cricket Stadium, Doha",
+    "league": "ACC Emerging Teams Asia Cup",
+    "round": "Group stage",
+    "broadcaster": "Sony LIV",
+    "banner_image": "https://flagcdn.com/w320/pk.png|https://flagcdn.com/w320/np.png",
+    "lineup_published": true,
+    "weather": {
+      "condition": "Cloudy",
+      "temperature": "28",
+      "precipitation": "8"
+    },
+    "h2h": "Pakistan A and Nepal have met once previously in the ACC Emerging Teams Asia Cup during the 2023 group stage in Colombo, where Pakistan A won by 4 wickets. Chasing 180 after Shahnawaz Dahani took 5/38, Pakistan A reached 181/6 in 32.5 overs despite a fighting 75 from Nepal's Sompal Kami.",
+    "win_probability": {
+      "home": 70.4,
+      "away": 29.6
+    }
+  },
+  "team1": {
+    "name": "Pakistan A",
+    "lineup": "Shahzaib Khan, Maaz Sadaqat, Shamyl Hussain, Haider Ali, Abdul Samad, Hasan Nawaz, Rohail Nazir, Danish Aziz, Ahmed Daniyal, Mohammad Hasnain, Sufyan Moqim"
+  },
+  "team2": {
+    "name": "Nepal",
+    "lineup": "Kushal Bhurtel, Arjun Kumal, Dev Khanal, Sundeep Jora, Lokesh Bam, Pawan Sarraf, Basir Ahmad, Sompal Kami, Sandeep Lamichhane, Nandan Yadav, Lalit Rajbanshi"
+  },
+  "info_sources": []
+}
