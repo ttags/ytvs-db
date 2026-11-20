@@ -1,24 +1,24 @@
 {
   "match": {
     "title": "Lumbini Lions vs Sudurpaschim Royals",
-    "date": "17 NOV",
+    "date": "21 NOV",
     "time": "05:00 PM NST",
     "end_time": "09:00 PM NST",
     "stadium": "TU Stadium",
     "league": "Nepal Premier League NPL",
-    "round": "League stage",
+    "round": "Final",
     "broadcaster": "Fancode, Himalaya HD, NETTv, Dishhome",
-    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://r2.thesportsdb.com/images/media/team/badge/4zi45y1734167957.png",
+    "banner_image": "https://lumbinilions.com.np/storage/c4ca4238a0b923820dcc509a6f75849b/logo/2026-09/lumbinilions-logo-1789543627.png|https://r2.thesportsdb.com/images/media/team/badge/s87vt01734167791.png",
     "lineup_published": true,
     "weather": {
       "condition": "Sunny",
-      "temperature": "17",
-      "precipitation": "6"
+      "temperature": "18",
+      "precipitation": "5"
     },
-    "h2h": "<table><thead><tr><th>Metric</th><th>Lumbini Lions</th><th>Sudurpaschim Royals</th></tr></thead><tbody><tr><td>Matches Played</td></tr><tr><td></td><td>4</td><td>4</td></tr><tr><td>Matches Won</td></tr><tr><td></td><td>2</td><td>2</td></tr><tr><td>Matches Lost</td></tr><tr><td></td><td>2</td><td>2</td></tr><tr><td>Win Percentage</td></tr><tr><td></td><td>50%</td><td>50%</td></tr><tr><td>Highest Team Total</td></tr><tr><td></td><td>143</td><td>187/4</td></tr><tr><td>Lowest Team Total</td></tr><tr><td></td><td>142/9</td><td>85</td></tr><tr><td>Most Runs</td></tr><tr><td></td><td>Bibek Yadav (77)</td><td>Saif Zaib (103)</td></tr><tr><td>Most Wickets</td></tr><tr><td></td><td>Sher Malla (6)</td><td>Abinash Bohara (5)</td></tr></tbody></table>",
+    "h2h": "<table><thead><tr><th>Statistic</th><th>Kathmandu Gorkhas</th><th>Chitwan Rhinos</th></tr></thead><tbody><tr><td>Matches Played</td></tr><tr><td></td><td>3</td><td>3</td></tr><tr><td>Matches Won</td></tr><tr><td></td><td>2</td><td>1</td></tr><tr><td>Matches Lost</td></tr><tr><td></td><td>1</td><td>2</td></tr><tr><td>No Result / Tied</td></tr><tr><td></td><td>0</td><td>0</td></tr><tr><td>Highest Team Score</td></tr><tr><td></td><td>180/8</td><td>170/7</td></tr><tr><td>Lowest Team Score</td></tr><tr><td></td><td>111/9</td><td>89</td></tr></tbody></table>",
     "win_probability": {
-      "home": 61.6,
-      "away": 38.4
+      "home": 55,
+      "away": 45
     }
   },
   "team1": {
@@ -27,7 +27,7 @@
   },
   "team2": {
     "name": "Sudurpaschim Royals",
-    "lineup": "Dipendra Singh Airee (Captain) All-Rounder Nepal\nAarif Sheikh All-Rounder / Batter Nepal\nBinod Bhandari Wicketkeeper Batter Nepal\nAbinash Bohara Bowler Nepal\nHemant Dhami Bowler Nepal\nHikmat Mahara All-Rounder Nepal\nIshan Pandey All-Rounder Nepal\nMilan Bohara All-Rounder Nepal\nSachin Bhatta All-Rounder Nepal\nTek Rawat All-Rounder / Batter Nepal\nTek Raj Thalal All-Rounder Nepal\nDipak Bohara Wicketkeeper Nepal\nAyub Chand All-Rounder / Batter Nepal\nAnil Kharel Bowler / Spinner Nepal\nScott Kuggeleijn All-Rounder / Bowler New Zealand\nSaif Ali Zaib All-Rounder Overseas\nSherfane Rutherford Batter West Indies\nBrendon Mc\nMullen All-Rounder Scotland\nTharindu Rathnayake Batter / Spinner Sri Lanka\nFabian Allen All-Rounder"
+    "lineup": "David Warner\nLeft-Handed Batsman\nWill Bosisto\nRight-Handed Batsman\nSrikar Bharat\n(Wk)\nRight-Handed Batsman\nSmit Patel\nRight-Handed Batsman\nDushan Hemantha\nRight-Handed Batsman • Right-arm Leg Spin Bowler\nSahan Arachchige\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nKaran KC\n(C)\nRight-Handed Batsman • Right-arm Fast Bowler\nSam Heazlett\nLeft-Handed Batsman\nRashid Khan\nRight-arm Medium Fast Bowler\nBhim Sharki\nRight-Handed Batsman\nHarishankar Shah\nLeft-Handed Batsman • Right-arm Off Spin Bowler\nShahab Alam\nLeft-arm Off Spin Bowler\nDev Shah\nLeft-arm Off Spin Bowler\nSumit Maharjan\nRight-Handed Batsman\nAadil Ansari\nRight-Handed Batsman • Right-arm Medium Bowler\nSonu Devkota\nRight-Handed Batsman\nRipon Mondol\nRight-arm Medium Bowler\nSantosh Yadav\nLeft-Handed Batsman • Left-arm Off Spin Bowler\nSahil Patel\n(Wk)\nRight-Handed Batsman\nKrishna Poudel\nRight-Handed Batsman • Right-arm Medium Fast Bowler\nJahandad Khan\nLeft-Handed Batsman • Left-arm Medium Fast Bowler\nDayanand Mandal\nLeft-arm Medium Fast Bowler\nSuryanshu Koirala\nRight-Handed Batsman\nPrasiddha Jaishi\nRight-Handed Batsman • Right-arm Medium Bowler\nGanesh Gautam\nLeft-arm Off Spin Bowler"
   },
   "info_sources": [
     {
