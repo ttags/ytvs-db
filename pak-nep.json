@@ -29,5 +29,36 @@
     "name": "Nepal",
     "lineup": "Kushal Bhurtel, Arjun Kumal, Dev Khanal, Sundeep Jora, Lokesh Bam, Pawan Sarraf, Basir Ahmad, Sompal Kami, Sandeep Lamichhane, Nandan Yadav, Lalit Rajbanshi"
   },
-  "info_sources": []
+  "info_sources": [
+    {
+      "name": "Link 1",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=pak-nep1"
+    },
+    {
+      "name": "Link 2",
+      "url": "https://ytvs-frame.pages.dev/frame?ref=pak-nep2"
+    },
+    {
+      "name": "Link 3",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 1 (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=pak-nep4"
+    },
+    {
+      "name": "Link 5",
+      "url": "https://hai8g.com/4/11249366",
+      "type": "smartlink"
+    },
+    {
+      "name": "Link 1 (New) (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=pak-nep6"
+    },
+    {
+      "name": "Link 1 (New) (New) (New)",
+      "url": "https://ytvs-frame.pages.dev/frame?direct-sandbox=https://ytvs-render.pages.dev/shaka?ref=pak-nep7"
+    }
+  ]
 }
